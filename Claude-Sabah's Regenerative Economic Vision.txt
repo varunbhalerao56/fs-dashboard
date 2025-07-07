@@ -1,0 +1,3909 @@
+Sabah's Regenerative Economic Vision
+
+Created: 6/26/2025 22:29
+Updated: 7/4/2025 23:29
+Exported: 7/5/2025 8:31
+Link: https://claude.ai/chat/8453296b-900a-4f34-add7-9fed43785e77
+
+## Response:
+Based on the documents, Forever Sabah's vision is:
+
+
+A regenerative, circular economy for Sabah that replaces the current extractive, GDP-centric model with one guided by a holistic progress metric rooted in Sabahan values.
+
+
+Core elements:
+
+
+Economic transformation: From linear extraction to circular regeneration where resources flow in closed loops and nature is restored rather than depleted
+
+Value redefinition: Moving beyond GDP to measure prosperity through indigenous concepts like mitatabang (collective spirit), reciprocity, responsibility, and trust between people and ecosystems
+
+Power redistribution: Shifting from "participation without power" to genuine presence and co-creation, where Sabahans shape economic rules rather than just survive within them
+
+Cultural restoration: Reviving place-based wisdom, languages, and kinship systems between people and more-than-human life that the extractive model has erased
+
+Measurement revolution: A "Sabah Holistic Progress Index" co-designed by Sabahans themselves through mass listening technologies, serving as compass, mirror, and firewall against extractive development
+
+
+The bottom line: Transform Sabah from a resource bank for external interests into a home where wellbeing is measured not by what's extracted, but by how deeply communities belong, how widely value is shared, and how wisely ecosystems are stewarded.
+
+## Response:
+Yes, absolutely understood. We're focusing on the holistic metric now.
+
+
+And yes, you're right - a population survey is central to this project. But it's more than a traditional survey. The documents describe it as:
+
+
+"Mass listening" using smartphone-based tech platform and AI to gather from a large sample of Sabahans across the state what they consider matters most for quality of life and livelihoods, plus how well they believe Sabah is currently performing in those domains.
+
+
+Key survey elements planned:
+
+
+Co-designed methodology - experimenting with visual, written, and oral formats to enable Sabahans to express what's important for their wellbeing
+
+Different response formats - testing various kinds of scoring/response inputs back from participants
+
+Two approaches being piloted:
+
+
+Developing domains directly from people's views
+
+Testing how Sabahans respond to pre-designated areas
+
+Stratified sampling to control for bias and ensure representation across:
+
+
+All locations, ethnicities, religions, walks of life
+
+Using methods like stratified random sampling and social network-based sampling
+
+Partnership approach - working with PACOS and other groups close to Sabah's diverse communities
+
+
+The goal is to root the metric in "the experience of Sabahans themselves" rather than imposing external frameworks. So yes, the survey is essential, but it's designed as a participatory listening exercise rather than a conventional questionnaire.
+
+## Response:
+web_search
+
+
+Request
+
+
+{
+  "query": "alternative metrics GDP Bhutan Gross National Happiness"
+}
+
+
+web_search
+
+
+Request
+
+
+{
+  "query": "alternative GDP metrics OECD Better Life Index countries"
+}
+
+
+web_search
+
+
+Request
+
+
+{
+  "query": "Happy Planet Index countries using alternative metrics beyond GDP"
+}
+
+
+web_search
+
+
+Request
+
+
+{
+  "query": "\"Vermont Genuine Progress Indicator\" \"Maryland GPI\" alternative metrics states using"
+}
+
+
+Yes, you're absolutely right! Bhutan's Gross National Happiness is the most famous example, but there are several other places that have developed alternative metrics to GDP:
+
+
+Key Examples:
+
+
+National Level:
+
+
+Bhutan - Gross National Happiness (GNH) Index with 9 domains: living standards, health, education, ecological diversity and resilience, cultural diversity and resilience, community vitality, time use, psychological wellbeing, and good governance
+
+Philippines - Bills filed to adopt GNH principles
+
+UAE - developing wellbeing measures
+
+
+International Frameworks:
+
+
+OECD Better Life Index - used by 35 OECD countries plus 3 non-OECD economies, covering 11 domains including housing, income, jobs, community, education, environment, civic engagement, health, life satisfaction, safety, and work-life balance
+
+Happy Planet Index - measures sustainable wellbeing across 147+ countries by combining life expectancy, wellbeing, and ecological footprint
+
+
+Sub-National Examples:
+
+
+US States: Hawaii, Maryland, and Vermont have implemented Genuine Progress Indicators
+
+Cities: Somerville (Massachusetts), Bristol (UK), Seattle (Washington), Eau Claire (Wisconsin), Creston (British Columbia)
+
+Brazil: São Paulo state using GNH community-level versions
+
+
+Other Notable Metrics:
+
+
+Human Development Index (HDI) - UN measure focusing on health, education, and living standards
+
+Genuine Progress Indicator (GPI) - adjusts for environmental and social costs
+
+Green GDP - factors in environmental damage costs
+
+
+The movement gained significant momentum after the 2012 UN High-Level Meeting on "Happiness and Well-being: Defining a New Economic Paradigm" and the UN resolution declaring March 20 as International Day of Happiness.
+
+
+For Sabah's project, these examples provide valuable precedents for developing locally-rooted metrics that capture what truly matters to communities beyond pure economic output.
+
+## Response:
+project_knowledge_search
+
+
+Request
+
+
+{
+  "query": "Sabah brain drain palm oil sustainability challenges GDP focus"
+}
+
+
+Response
+
+
+FS ProblemVisionMission V2  Ashoka Accelerator.pdf
+Context (Root Causes & Consequences)
+Sabah’s trajectory remains troublingly rooted in its formation under the British North Borneo 
+Chartered Company, a profit-seeking speculative venture with an imperial charter that focused 
+on generating revenue for shareholders while securing governability of native residents as 
+empire subjects not citizens. Economic development has since focused on the needs of those 
+associated with the state, while riding boom-and-bust cycles with little heed for their 
+consequences on the ground.
+Since incorporation into Malaysia, the extractive economy model has readily interwoven with 
+patronage politics and social inequality. The state allocates natural resources and federal 
+development budgets for sundry mega-projects, schemes and hand-outs, rather than as 
+investment in any real economy for the people. The consequences have been dramatic. In 1970 
+Sabah was the second richest state by per capita GDP in Malaysia. Decades of logging, oil palm 
+and petrochemical development have driven accumulation and diversification outside of the 
+state, and left Sabah the poorest in the federation. Furthermore, the 19.5% officially living in 
+absolute poverty in Sabah suffer reduced access to the forests, fisheries and farmland that once 
+sustained them. Approximately 75% of Sabah’s land has been allocated to production forest
+concessions, oil palm estates (22%) and totally protected areas (27%), with around 10% of the 
+state held under Native Title by the indigenous peoples who live in some 4,000 villages in the 
+narrow gaps between these expropriated lands. Remote has become marginalised, and these 
+communities increasingly find themselves forced to participate without power in a game of 
+economic development that provides little and degrades much. Sabahans typically lived from 
+and with rivers, mangroves and coastal reefs; with degraded forest watersheds, pollution and 
+overfishing have become devastating. Native rights – including Customary Rights - provides 
+scant protection to the latest extractive ventures around mining and energy (including megadams). 
+One consequence of this poor governance and erosion of traditional livelihoods has been the 
+unremitting struggle by Sabahans to enter the cash economy, and access state services, which 
+are associated with all that is presented desirable about modern life. For large numbers this has 
+meant labour migration – or emigration – to Sabah’s towns or stronger economies in Singapore 
+and the Malay Peninsula, Australasia or the Middle East. Meanwhile those remaining in Sabah 
+have become further embroiled in developmentalism, wherein government largesse becomes 
+synonymous with growing GDP and better life, stripping away layers of culture, wisdom and 
+complexity.
+
+
+Response
+
+
+Sharpening the Vision  Ashoka Accelerator  22May2025.pdf
+○ Infrastructure and services are tied to political loyalty, not human rights.
+○ Women, elders, traditional custodians left out of formal decision-making.
+3. Loss of Shared Meaning:
+○ The dominance of a linear, extractive economic model (i.e. the GDP) has displaced 
+Indigenous, relational, and place-based dimensions of wellbeing. 
+○ Youth are leaving (brain drain), languages are disappearing, and community 
+identities are fraying (loss of identity, spiritual connection to land). 
+○ The current economic model is one that lays emphasis on value but forgoes 
+meaning.
+Problem statement 
+Sabah’s dominant development model is extractive, GDP-centric and blind to relational and 
+ecological wellbeing, forcing communities into participation without power, ignores indigenous 
+systems of value, and accelerates cultural, ecological, and social disintegration.
+Root causes
+1. Colonial Legacy and Extractive Foundations
+● Infrastructure, legal systems, and land tenure reflect colonial priorities.
+● Modernisation is associated with erasing traditional systems.
+2. Political Patronage and Corruption
+● Public goods and infrastructure are politicized, weaponised.
+● Resource access and economic opportunity are tied to elite networks.
+3. Centralised, Fragmented Governance
+● Rural voices are excluded from development planning.
+● Siloed departments and short-term planning cycles hinder systemic reform.
+4. Distorted Value Systems
+● GDP is the only lens of success – sacred ecologies, collective labor, and emotional 
+wellbeing are undervalued.
+● Traditional economies are painted as backward or irrelevant.
+5. Historical Amnesia and Victim-Entitlement Dynamics
+● Lack of reckoning with colonial trauma, marginalisation, and federal extraction 
+creates cycles of apathy and dependency.
+6. State-Federal Imbalance
+● Sabah is treated as a resource bank, not a co-equal partner in development.
+● Control over land, education, and fiscal resources is centralized.
+Consequences
+1. Ecological Breakdown
+● Deforestation, biodiversity collapse, water crisis, and soil erosion.
+
+
+Response
+
+
+Sharpening the Vision  Ashoka Accelerator  22May2025.pdf
+● Rising climate disasters and loss of carbon/nature-based assets.
+2. Cultural and Social Fragmentation
+● Erasure of languages, rituals, and ancestral knowledge systems.
+● Youth alienation, community disconnection, and rise in urban precarity.
+3. Entrenched Inequality and Disempowerment
+● Loss of intergenerational agency, rise in political apathy and disenfranchisement.
+● Talent and youth migration, weakening of rural resilience.
+4. Economic Fragility
+● Boom-and-bust cycles from reliance on palm oil, timber, fossil fuels.
+● Collapse of local food systems and over-dependence on imports.
+5. Loss of Regenerative Opportunity
+● Missing the window to reorient Sabah’s economy and governance while there is 
+still ecological and cultural wealth to build upon.
+Overall Vision
+● A regenerative and relational Sabah where wellbeing is not measured by how much is 
+extracted, but by how deeply communities belong, how widely value is shared, how wisely 
+ecosystems are cared for – what is taken is returned.
+● An index that serves as:
+○ A mirror reflecting what mainstream development erases/has erased,
+○ A guiding compass for reciprocity, trust, responsibility, etc,
+○ A firewall against extractive development in disguise,
+○ A seed bank for collective flourishing.
+
+
+Response
+
+
+FS ProblemVisionMission V2  Ashoka Accelerator.pdf
+For large numbers this has 
+meant labour migration – or emigration – to Sabah’s towns or stronger economies in Singapore 
+and the Malay Peninsula, Australasia or the Middle East. Meanwhile those remaining in Sabah 
+have become further embroiled in developmentalism, wherein government largesse becomes 
+synonymous with growing GDP and better life, stripping away layers of culture, wisdom and 
+complexity. Government-sponsored efforts to liquidate the state’s natural capital for sundry 
+projects thus meet on the forest edge with desperate efforts by marginalised locals to survive, 
+perhaps by hunting pangolins for export, in a breakdown of stewardship and biodiversity endgame. Sabah’s politics become trapped in federal victimhood rather than the responsibilities of 
+sovereignty. 
+In Sabah, ecological, livelihood and biodiversity loss is inseparable from the erosion of cultural 
+identities and values rooted in ancestral relationship with land and sea. As forests fall and 
+ecosystems degrade, we are not only losing species—we are losing languages, traditions, and 
+lifeways that hold generations of place-based wisdom. This loss extends beyond the human 
+realm. It severs the deep kinships between people and more-than-human life, unravelling 
+systems of mutual care that have long sustained us, built on diversity and reciprocity. The 
+dominant extractive model not only strips the land of life, but erases the voices and relationships 
+that define it. But this is where there is an important crack in the system and an opening in 
+Sabah, for there remains an irrepressible constituency for sustaining collective spirit (mitatabang) 
+and for locally-rooted environmentalism; these are vital epicentres for civil society agency, 
+creativity and initiative.
+
+
+Response
+
+
+FS ProblemVisionMission V2  Ashoka Accelerator.pdf
+Forever Sabah/Ashoka Accelerator – Sprint 1 29 May 2025
+Problem & Vision Statement
+Sabah’s development model and direction is rooted in and shaped by its colonial history; joining 
+Malaysia in a dynamic of subservience then extended the trajectory of the linear, extractive 
+economy powered by patronage politics and social inequality. The vast majority of the state’s 
+rich resources are in service of this system, whilst a sliver is where most Sabahans are allowed 
+to seek livelihoods; this deepens the divides and widens the disconnect in the social, economic 
+and ecological landscape.
+Forever Sabah envisions a diversified, equitable, *circular economy for Sabah, Malaysian 
+Borneo. This regenerative economy is oriented by a holistic metric as compass and thought 
+leadership for guiding and tracking progress and prosperity beyond GDP (Gross Domestic 
+Product – a monetary measure of economic performance). These metrics are composed of 
+indicators and domains shaped by Sabahan values, and better reflect their generosity, 
+reciprocity, responsibility and trust, both among people and between society, and our natural and 
+cultural heritage.
+* The circular economy is a system where nature is regenerative and resources are utilised in a 
+closed loop (e.g. bioplastics made from wood waste).
+Current Mission
+Forever Sabah’s mission is to co-create new pathways, practices and policies for renewal and 
+regeneration across sectors and society, and ignite impetus for systems change in the focal areas of 
+Food, Agriculture & Fisheries, Forests Water & Soil, Energy, Infrastructure & Waste, Livelihoods, 
+Enterprise & Tourism, and Culture & Arts. Our strategies in realising this mission are:
+Engage in and enable *relational and 
+collaborative processes across all 
+sectors in Sabah and beyond
+* building relational tissue and 
+capacity that humanizes and decenters solutionizing and 
+transactionality
+Co-design and co-initiate 
+prototypes, projects and 
+programs where there are 
+openings and readiness to 
+disrupt patterns and habits 
+in the current linear, 
+extractive economy
+Facilitate, convene and build 
+spaces for generative, creative 
+and open dialogue where 
+shared concerns, issues and 
+aspirations are discussed 
+in ways that build 
+trust and traction
+
+
+Response
+
+
+Holistic Metric Methodology Statement.pdf
+Holistic Metric - design & process
+Forever Sabah envisions a diversified, equitable, circular economy for Sabah, Malaysian Borneo. This 
+regenerative economy is oriented by a holistic metric as compass and thought leadership for guiding 
+and tracking progress and prosperity beyond GDP.
+Our intention is to generate the "Sabah Holistic Progress Index/Indicators/Metric" as rooted in the 
+experience of Sabahans themselves; doing this requires new technologies of “mass listening”. To 
+this end, Forever Sabah will co-design, co-pilot and then socialise ways to use a smartphone based 
+tech platform and AI to gather and synthesise from a large sample of Sabahans across the state what 
+they consider matters most for the quality of their lives and livelihoods, and then to benchmark how 
+well they believe the state is currently performing in each of those domains.
+In order to develop methods for easily but deeply enabling Sabahans to express what is important 
+for their wellbeing, we will experiment with a range of visual, written and oral formats and prompts, 
+and test the consequences of requesting different kinds of response/scoring inputs back from them. 
+Some pilots may also assess ways to develop domains of concern directly from the views of the 
+people, while others see how Sabahans respond and value different pre-designated areas. In 
+addition to learning how to structure the metric, and how our people measure and “score”, we 
+believe this exercise will teach us much about how Sabahans approach visioning and communicating 
+their hopes for progress in the state.
+Roll-out itself will require methodologies to control credibly for different kinds of sampling bias, 
+while exploring empathetically any major differences among categories of Sabahans about what 
+they value. The pilot phase will therefore explore methods for stratified random sampling, social 
+network based sampling, and other methods to ensure all locations, ethnicities, religions, and walks 
+of life can be properly heard, and analysed representationally and objectively.
+The pilot phase will rely much on partnerships with PACOS and other groups that are close to 
+Sabah’s diverse communities. In addition to ongoing stakeholder consultations a gathering of key 
+actors for the Metric – to include the state government, the state legislative assembly, research 
+institutions, civil society and even the Ministry of Finance – will review the findings from the pilot 
+phase prior to roll-out of the actual metric.
+++++
+
+
+Response
+
+
+Bhutan_GNH_2022_(2023)_compressed.pdf
+By measuring these and other factors, the
+GNH Index provides a more comprehensive and holistic picture of the
+quality of life in a country than traditional economic measures like GDP.
+The GNH Index values sustainability
+One of the drawbacks of using GDP as a measure of economic progress
+is that it does not indicate whether the country's rate of growth is
+sustainable. GDP does not consider whether this economic growth is
+being achieved in a way that is socially, economically, and
+environmentally sustainable over the long term. For example, a country
+that achieves high GDP growth by depleting its natural resources,
+contributing to green gas emissions or exploiting its workers may be
+unsustainable in the long run, even if its GDP growth rate is high in the
+
+GNH 2022
+130
+short term. Similarly, a country that achieves high GDP growth but
+where societal physical and mental health is deteriorating over time
+may be unsustainable in the long run, even if its GDP growth rate is high
+in the short term.
+In contrast, the GNH Index values sustainability as one of its key
+principles. It is based on the principle that sustainable development and
+the wellbeing of people and the planet should be valued over economic
+growth. The nine domains of the GNH Index are designed to reflect a
+balance between material, social, and environmental wellbeing, all of
+which are considered important for achieving sustainable development.
+The ecological diversity and resilience and cultural diversity and
+resilience domains, for example, focus on environmental sustainability
+and the ability of communities to adapt to change. The community
+vitality domain focuses on social sustainability and the importance of
+social capital and community resilience. In addition, the GNH Index also
+recognises the importance of intergenerational equity and the need to
+balance the needs of current and future generations. The Index helps to
+identify areas where policies and investments may be needed to
+promote wellbeing in a more comprehensive and sustainable way.
+The GNH Index takes into account non-market transactions
+Another limitation of GDP is that it does not account for non-market
+transactions. Non-market transactions are activities that are not
+exchanged for money in the formal market, such as household chores,
+childcare, elderly care, and volunteer work. Since these activities are not
+recorded in the official economic statistics, they are not included in GDP.
+They can, nevertheless, make significant contributions to a nation's
+prosperity and standard of living. For instance, home activities like
+cooking, cleaning, and childrearing, can have a large positive impact on
+individuals and families.
+Moreover, certain non-market transactions might take the place of some
+market transactions, which could cause an overestimation of economic
+activity.
+
+
+Response
+
+
+Sharpening the Vision  Ashoka Accelerator  22May2025.pdf
+Context/Framing Ideas *needs some work – whole of Sabah?
+1. “Ekos” as Home: Economy as Access, Belonging, and Presence
+We begin with the etymological root of ‘economy’ from the Greek word oikos, meaning ‘home’,
+allowing us to dive deeper – the linear economic model builds a home with one main entrance 
+(cash participation), excluding those who live sustainably, relationally, or collectively outside the 
+system. 
+2. Multiple Doorways
+In indigenous and rural Sabah communities, value is meaningful and generated through the 
+communal/collective spirit of mitatabang. Mitatabang is more than tradition – it’s a way of life. It is 
+the quiet strength of neighbors harvesting rice together, the shared laughter of elders teaching 
+ancient skills inherited from their ancestors, and the deep-rooted bond between people and land 
+– capturing connection, purpose, and resilience. Prosperity flows like the rivers, seasons, and the 
+hands that sustain each other–always shared, always renewing, always enough.
+*may add a piece on gotong-royong (communal kinship), intergenerational care, ecosystem 
+kinship – all of which are economies of wellbeing that are invisible to mainstream metrics.
+These are not nostalgic alternatives. They are living, breathing, functional systems of care and 
+regeneration. *the unbanked rich, a treasury of things that breathe
+3. Presence vs Participation
+For most Sabahans, participation in the cash economy is dull and lacks meaning (if there is any, 
+really). They cannot shape rules, policies, or outcomes. Presence in this sense implies dignity, 
+agency, and co-creation. If the cash economy is a home, whose home is it? Who has the key? 
+Who is allowed to hang paintings and rearrange furniture? In other words, who has the power to 
+be truly present – to be seen, heard, felt and to move the economy? 
+Wealth distribution is often concerned with slicing the pie more fairly, but power distribution is 
+asking who decides the recipe. It is the factor that determines what and who the economy is for, 
+how value is defined, exchanged, and stewarded. 
+*centering voice, autonomy, consent, etc..?
+Where we are today 
+Sabah is rich in biodiversity, cultural heritage, and community knowledge systems – yet these are 
+under siege. We are living through:
+1. Ecological instability 
+○ Accelerating deforestation, biodiversity loss, climate-related disasters, watershed 
+degradation, etc.
+○ Natural systems treated as resource banks for short-term gains.
+○ Sacred ecologies reduced to commodities.
+2. Social inequity
+○ Widening gaps between urban and rural, structural marginalisation of Indigenous 
+and stateless groups, and disempowerment through patronage politics.
+
+
+
+
+
+Based on the project documents, here are the key focus areas for Sabah's holistic metric survey and how they should differ from Bhutan's approach:
+
+
+Sabah's Core Survey Focus Areas:
+
+
+1. Relational & Collective Wellbeing
+
+
+Mitatabang (collective spirit) - measuring community solidarity and mutual support
+
+Gotong-royong (communal kinship) - assessing reciprocal care systems
+
+Intergenerational relationships - connection between elders and youth
+
+Ecosystem kinship - relationship with more-than-human life
+
+
+2. Presence vs. Participation
+
+
+Agency & voice - ability to shape economic decisions vs. just surviving within them
+
+Co-creation power - capacity to influence development policies
+
+Dignity in economic participation - meaningful vs. extractive engagement
+
+Autonomy & consent - control over traditional territories and resources
+
+
+3. Cultural & Linguistic Vitality
+
+
+Language preservation - addressing rapid language loss
+
+Ancestral knowledge systems - maintaining place-based wisdom
+
+Traditional livelihood practices - sustainable resource management
+
+Sacred ecology connections - spiritual relationships with land/sea
+
+
+4. Regenerative Economics
+
+
+Circular economy participation - closed-loop resource systems
+
+Local food security - reducing import dependency
+
+Sustainable livelihood diversity - beyond boom-bust cycles
+
+Resource stewardship - caring for vs. extracting from ecosystems
+
+
+5. Youth Retention & Opportunity
+
+
+Meaningful local opportunities - alternatives to migration
+
+Skills for regenerative economy - preparing for post-extractive livelihoods
+
+Cultural identity resilience - maintaining connection while engaging modernity
+
+Leadership pathways - youth voice in decision-making
+
+
+Key Differences from Bhutan's GNH:
+
+Aspect
+Bhutan GNH
+Sabah Metric
+Context
+Buddhist philosophy, relatively intact culture
+Post-colonial trauma, active cultural erosion
+Primary Challenge
+Balancing tradition with modernization
+Reversing extractive patterns, stopping brain drain
+Economic Focus
+Sustainable development within existing systems
+Circular economy transition from linear extraction
+Governance
+Sovereign nation with policy control
+Federated state with limited autonomy
+Cultural Frame
+Preserving established Buddhist values
+Reviving and strengthening Indigenous systems
+Urgency
+Gradual, preventive approach
+Crisis response - rapid ecological/cultural loss
+
+Sabah-Specific Survey Questions Should Address:
+
+
+Power & Participation:
+
+
+Do you feel heard in decisions affecting your community's future?
+
+Can you practice traditional livelihoods without interference?
+
+Are young people staying or leaving your community?
+
+
+Regenerative Practices:
+
+
+How healthy are the forests/waters you depend on?
+
+Are traditional stewardship practices valued and supported?
+
+Can you meet daily needs through local, sustainable means?
+
+
+Cultural Continuity:
+
+
+Are your languages and traditions being passed to youth?
+
+Do you feel connected to your ancestral lands/waters?
+
+Are elders' knowledge systems recognized and valued?
+
+
+Economic Alternatives:
+
+
+Do you have access to meaningful work beyond palm oil/logging?
+
+Can you participate in economic decisions affecting your area?
+
+Are there pathways for youth that don't require leaving Sabah?
+
+
+The key is that Sabah's metric must be explicitly decolonizing and regenerative - not just measuring happiness within existing systems, but actively supporting the transition from extractive to circular economics while strengthening Indigenous knowledge systems and community agency.
+
+## Response:
+Looking at both Bhutan's survey and the Sabah-specific challenges, here's my analysis:
+
+
+Bhutan's 9 Core Domains:
+
+
+Psychological Wellbeing - Life satisfaction, stress, spirituality, emotions
+
+Health - Physical/mental health, healthcare access, lifestyle factors
+
+Time Use & Balance - Work-life balance, time allocation
+
+Education - Formal education, cultural literacy, skills
+
+Cultural Diversity & Resilience - Language, traditions, values, identity
+
+Good Governance - Political participation, trust in institutions, corruption
+
+Community Vitality - Social connections, volunteering, safety, trust
+
+Ecological Diversity & Resilience - Environmental connection, conservation behaviors
+
+Living Standards - Income, housing, assets, financial security
+
+
+What Sabah Should Keep from Bhutan's Survey:
+
+
+Essential Sections:
+
+
+Demographics (age, gender, occupation, education)
+
+Psychological Wellbeing - but adapt stress sources and happiness factors
+
+Health - basic health status and healthcare access
+
+Community Vitality - social connections and mutual support systems
+
+Cultural Identity - language preservation and traditional practices
+
+Governance - trust in institutions and political participation
+
+Living Standards - income and basic needs satisfaction
+
+
+What Sabah Should DROP/Modify:
+
+
+Less Relevant for Sabah:
+
+
+Detailed Buddhist spirituality questions (karma, meditation frequency, etc.)
+
+Bhutan-specific cultural elements (driglam namzha, dzongkha literacy)
+
+Time diary section (too detailed for initial survey)
+
+Extensive asset ownership lists (livestock types specific to Bhutan)
+
+
+What Sabah MUST ADD Based on Context:
+
+
+Brain Drain & Migration:
+
+
+Intent to leave Sabah (1-10 scale)
+
+What would make you stay?
+
+Do you encourage young people to leave for opportunities?
+
+Connection to ancestral lands despite economic pressures
+
+
+Resource Extraction & Sustainability:
+
+
+Satisfaction with palm oil industry's impact on community
+
+Trust in environmental protection measures
+
+Access to traditional forest resources vs. conservation areas
+
+Impact of extractive industries on daily life
+
+
+Economic Agency & Power:
+
+
+Do you feel you have a voice in economic decisions affecting your community?
+
+Can you practice traditional livelihoods sustainably?
+
+Access to non-extractive economic opportunities
+
+
+Indigenous Knowledge & Rights:
+
+
+Mitatabang (collective spirit) practices and strength
+
+Traditional ecological knowledge transmission
+
+Land tenure security and customary rights
+
+Intergenerational knowledge transfer
+
+
+Federal-State Relations:
+
+
+Satisfaction with Sabah's treatment within Malaysia
+
+Resource revenue sharing fairness
+
+Autonomy in local decision-making
+
+
+Sabah-Specific Survey Domains I'd Recommend:
+
+
+Personal Wellbeing (adapted from Bhutan's psychological wellbeing)
+
+Health & Healthcare Access
+
+Economic Agency & Opportunity (broader than just living standards)
+
+Cultural Vitality & Language Preservation
+
+Community Resilience (mitatabang, gotong-royong)
+
+Environmental Stewardship (beyond Bhutan's ecological focus)
+
+Governance & Participation (local and federal levels)
+
+Place Attachment & Migration Intentions (unique to brain drain context)
+
+Resource Justice (unique to extractive economy context)
+
+
+Key insight: Sabah's survey should be shorter but more targeted - focusing on the specific tensions between traditional values, economic pressures, environmental degradation, and the desire for young people to stay and build lives rooted in place rather than seeking opportunities elsewhere.
+
+
+The survey needs to capture not just current satisfaction but potential for regenerative futures - what would need to change for Sabah to become a place where young people choose to stay and thrive?
+
+## Response:
+project_knowledge_search
+
+
+Request
+
+
+{
+  "query": "survey methodology sampling stratified random PACOS communities Sabah"
+}
+
+
+Response
+
+
+Holistic Metric Methodology Statement.pdf
+Holistic Metric - design & process
+Forever Sabah envisions a diversified, equitable, circular economy for Sabah, Malaysian Borneo. This 
+regenerative economy is oriented by a holistic metric as compass and thought leadership for guiding 
+and tracking progress and prosperity beyond GDP.
+Our intention is to generate the "Sabah Holistic Progress Index/Indicators/Metric" as rooted in the 
+experience of Sabahans themselves; doing this requires new technologies of “mass listening”. To 
+this end, Forever Sabah will co-design, co-pilot and then socialise ways to use a smartphone based 
+tech platform and AI to gather and synthesise from a large sample of Sabahans across the state what 
+they consider matters most for the quality of their lives and livelihoods, and then to benchmark how 
+well they believe the state is currently performing in each of those domains.
+In order to develop methods for easily but deeply enabling Sabahans to express what is important 
+for their wellbeing, we will experiment with a range of visual, written and oral formats and prompts, 
+and test the consequences of requesting different kinds of response/scoring inputs back from them. 
+Some pilots may also assess ways to develop domains of concern directly from the views of the 
+people, while others see how Sabahans respond and value different pre-designated areas. In 
+addition to learning how to structure the metric, and how our people measure and “score”, we 
+believe this exercise will teach us much about how Sabahans approach visioning and communicating 
+their hopes for progress in the state.
+Roll-out itself will require methodologies to control credibly for different kinds of sampling bias, 
+while exploring empathetically any major differences among categories of Sabahans about what 
+they value. The pilot phase will therefore explore methods for stratified random sampling, social 
+network based sampling, and other methods to ensure all locations, ethnicities, religions, and walks 
+of life can be properly heard, and analysed representationally and objectively.
+The pilot phase will rely much on partnerships with PACOS and other groups that are close to 
+Sabah’s diverse communities. In addition to ongoing stakeholder consultations a gathering of key 
+actors for the Metric – to include the state government, the state legislative assembly, research 
+institutions, civil society and even the Ministry of Finance – will review the findings from the pilot 
+phase prior to roll-out of the actual metric.
+++++
+
+
+Response
+
+
+Bhutan_GNH_2022_(2023)_compressed.pdf
+Survey coverage
+The 2022 GNH survey, like past GNH surveys, is designed to cover the
+entire country which is divided into 20 dzongkhags. Each dzongkhag is
+divided into rural and urban areas and is further sub-divided into
+Enumeration Areas (EA). Chiwogs in rural and enumeration blocks in
+urban areas is used as a Primary Sampling Unit (PSU). The target
+population included those aged 15 years or older.
+Sample design
+The sample for the 2022 GNH survey is designed to provide estimates
+of GNH-related indicators representative at national, rural and urban
+areas, and dzongkhag levels. A stratified three-stage sampling design
+is adopted. Two mutually exclusive sampling frames – rural and urban
+areas were used.
+56 
+Urban and rural areas within each dzongkhag have
+been identified as the main sampling strata.
+The first stage sample selection involved selection of PSUs which are
+chiwogs in rural and enumeration blocks in urban areas. The PSUs in
+both rural and urban areas are selected using Probability Proportional
+56 
+All Thromdes (urban centres), Dzongkhag Headquarters, and satellite towns
+designated as ‘urban’ by the Ministry of Works and Human Settlement (MoWHS)
+were considered as urban areas and all the rest as rural areas for this study. A place
+that meets four out of the following five criteria is considered ‘urban’ by the MoWHS:
+i) a minimum population of 1,500 people; ii) a population density of 1,000 people or
+more per square kilometre; iii) more than 50% of the population should depend on
+non-primary activities; iv) the area of the urban centre should not be less than 1.5
+square kilometres; and v) potential for future growth of the urban centre particularly
+in terms of its revenue base.
+
+Annexure I
+321
+to Size (PPS) method where number of households is used as measure
+of size (MOS) variable.
+Households within the selected PSUs formed the Secondary Sampling
+Units (SSUs). Therefore, the second stage sample selection involved
+selecting households as SSUs from within the selected PSUs. The
+required number of households from the selected PSUs were selected
+using Circular Systematic Sampling (CSS) approach.
+Finally, the third stage sample selection involved the selection of
+individuals as Ultimate Sampling Units (USUs) from the selected
+households. Selection of a household member from the selected
+households was done using the Kish grid selection method.
+Sampling frame
+The sampling frame for the survey is constructed using number of
+households reported by the National Statistics Bureau (NSB) based on
+the Population and Housing Census of Bhutan (PHCB) conducted in
+2017. The household listing for the selected PSUs was updated before
+the selection of household samples. For effective implementation of
+area sampling, the field supervisors and assistant supervisors were
+trained extensively on area sampling methods before leaving for the
+field survey.
+
+
+Response
+
+
+FS ProblemVisionMission V2  Ashoka Accelerator.pdf
+Context (Root Causes & Consequences)
+Sabah’s trajectory remains troublingly rooted in its formation under the British North Borneo 
+Chartered Company, a profit-seeking speculative venture with an imperial charter that focused 
+on generating revenue for shareholders while securing governability of native residents as 
+empire subjects not citizens. Economic development has since focused on the needs of those 
+associated with the state, while riding boom-and-bust cycles with little heed for their 
+consequences on the ground.
+Since incorporation into Malaysia, the extractive economy model has readily interwoven with 
+patronage politics and social inequality. The state allocates natural resources and federal 
+development budgets for sundry mega-projects, schemes and hand-outs, rather than as 
+investment in any real economy for the people. The consequences have been dramatic. In 1970 
+Sabah was the second richest state by per capita GDP in Malaysia. Decades of logging, oil palm 
+and petrochemical development have driven accumulation and diversification outside of the 
+state, and left Sabah the poorest in the federation. Furthermore, the 19.5% officially living in 
+absolute poverty in Sabah suffer reduced access to the forests, fisheries and farmland that once 
+sustained them. Approximately 75% of Sabah’s land has been allocated to production forest
+concessions, oil palm estates (22%) and totally protected areas (27%), with around 10% of the 
+state held under Native Title by the indigenous peoples who live in some 4,000 villages in the 
+narrow gaps between these expropriated lands. Remote has become marginalised, and these 
+communities increasingly find themselves forced to participate without power in a game of 
+economic development that provides little and degrades much. Sabahans typically lived from 
+and with rivers, mangroves and coastal reefs; with degraded forest watersheds, pollution and 
+overfishing have become devastating. Native rights – including Customary Rights - provides 
+scant protection to the latest extractive ventures around mining and energy (including megadams). 
+One consequence of this poor governance and erosion of traditional livelihoods has been the 
+unremitting struggle by Sabahans to enter the cash economy, and access state services, which 
+are associated with all that is presented desirable about modern life. For large numbers this has 
+meant labour migration – or emigration – to Sabah’s towns or stronger economies in Singapore 
+and the Malay Peninsula, Australasia or the Middle East. Meanwhile those remaining in Sabah 
+have become further embroiled in developmentalism, wherein government largesse becomes 
+synonymous with growing GDP and better life, stripping away layers of culture, wisdom and 
+complexity.
+
+
+Response
+
+
+Sharpening the Vision  Ashoka Accelerator  22May2025.pdf
+● Rising climate disasters and loss of carbon/nature-based assets.
+2. Cultural and Social Fragmentation
+● Erasure of languages, rituals, and ancestral knowledge systems.
+● Youth alienation, community disconnection, and rise in urban precarity.
+3. Entrenched Inequality and Disempowerment
+● Loss of intergenerational agency, rise in political apathy and disenfranchisement.
+● Talent and youth migration, weakening of rural resilience.
+4. Economic Fragility
+● Boom-and-bust cycles from reliance on palm oil, timber, fossil fuels.
+● Collapse of local food systems and over-dependence on imports.
+5. Loss of Regenerative Opportunity
+● Missing the window to reorient Sabah’s economy and governance while there is 
+still ecological and cultural wealth to build upon.
+Overall Vision
+● A regenerative and relational Sabah where wellbeing is not measured by how much is 
+extracted, but by how deeply communities belong, how widely value is shared, how wisely 
+ecosystems are cared for – what is taken is returned.
+● An index that serves as:
+○ A mirror reflecting what mainstream development erases/has erased,
+○ A guiding compass for reciprocity, trust, responsibility, etc,
+○ A firewall against extractive development in disguise,
+○ A seed bank for collective flourishing.
+
+
+Response
+
+
+Sharpening the Vision  Ashoka Accelerator  22May2025.pdf
+○ Infrastructure and services are tied to political loyalty, not human rights.
+○ Women, elders, traditional custodians left out of formal decision-making.
+3. Loss of Shared Meaning:
+○ The dominance of a linear, extractive economic model (i.e. the GDP) has displaced 
+Indigenous, relational, and place-based dimensions of wellbeing. 
+○ Youth are leaving (brain drain), languages are disappearing, and community 
+identities are fraying (loss of identity, spiritual connection to land). 
+○ The current economic model is one that lays emphasis on value but forgoes 
+meaning.
+Problem statement 
+Sabah’s dominant development model is extractive, GDP-centric and blind to relational and 
+ecological wellbeing, forcing communities into participation without power, ignores indigenous 
+systems of value, and accelerates cultural, ecological, and social disintegration.
+Root causes
+1. Colonial Legacy and Extractive Foundations
+● Infrastructure, legal systems, and land tenure reflect colonial priorities.
+● Modernisation is associated with erasing traditional systems.
+2. Political Patronage and Corruption
+● Public goods and infrastructure are politicized, weaponised.
+● Resource access and economic opportunity are tied to elite networks.
+3. Centralised, Fragmented Governance
+● Rural voices are excluded from development planning.
+● Siloed departments and short-term planning cycles hinder systemic reform.
+4. Distorted Value Systems
+● GDP is the only lens of success – sacred ecologies, collective labor, and emotional 
+wellbeing are undervalued.
+● Traditional economies are painted as backward or irrelevant.
+5. Historical Amnesia and Victim-Entitlement Dynamics
+● Lack of reckoning with colonial trauma, marginalisation, and federal extraction 
+creates cycles of apathy and dependency.
+6. State-Federal Imbalance
+● Sabah is treated as a resource bank, not a co-equal partner in development.
+● Control over land, education, and fiscal resources is centralized.
+Consequences
+1. Ecological Breakdown
+● Deforestation, biodiversity collapse, water crisis, and soil erosion.
+
+
+Response
+
+
+Bhutan_GNH_2022_(2023)_compressed.pdf
+It took four months to complete the in-
+person interviews (April to July 2022). CBS conducted the 2022 survey
+using a rigorous data gathering, entry, and cleaning method. A survey
+manual guide was also created to assist with data gathering.
+How many people did the GNH survey 2022 cover?
+The GNH survey in 2022 had a sample size of 11,440 people aged 15
+and above. To match with national proportions, 73% (8,400) were
+identified from rural areas, while the remaining 27% (3,040) were
+identified from urban areas. The response rate was high at 96.6%
+(11,052).
+
+Background
+11
+Table 1: Demographic characteristics
+Characteristics 
+2022 2015 2010
+N % N % N %
+Sex
+Male 3,991 36.1 2,966 41.5 3,426 48
+Female 7,061 63.9 4,184 58.5 3,708 52
+Other - - 3 0 - -
+Area of residence
+Rural 8,169 73.9 5,127 71.7 5,554 77.8
+Urban 2,883 26.1 2,026 28.3 1,588 22.2
+Age group
+15-19 265 2.4 458 6.4 276 3.9
+20-24 682 6.2 686 9.6 649 9.1
+25-29 1366 12.4 876 12.3 986 13.8
+30-34 1680 15.2 952 13.3 925 13
+35-39 1413 12.8 906 12.7 829 11.6
+40-44 1185 10.7 671 9.4 714 10
+45-49 1028 9.3 636 8.9 667 9.4
+50-54 833 7.5 562 7.9 580 8.1
+55-59 738 6.7 418 5.8 504 7.1
+60-64 635 5.8 368 5.1 392 5.5
+65-69 462 4.2 257 3.6 263 3.7
+70-74 369 3.3 202 2.8 193 2.7
+>=75 396 3.6 161 2.3 148 2.1
+Marital status
+Never married 1,284 11.6 1,103 15.4 691 9.7
+Living together 38 0.3 - - - -
+Married 8,177 74 5,394 75.4 5,692 79.8
+Divorced 706 6.4 268 3.8 231 3.2
+Separated 65 0.6 32 0.5 103 1.4
+Widowed 782 7.1 356 5 416 5.8
+
+Background
+12
+Level of education
+No formal education 5,758 52.1 4,146 58 4,682 65.6
+Primary education (VI) 1,269 11.5 914 12.8 982 13.8
+LS education (VIII) 615 5.6 445 6.2 383 5.4
+MS education (X) 1,267 11.5 685 9.6 536 7.5
+HS education (till degree
+2nd
+yr.)/Diploma/Certificate
+1,279 11.6 721 10.1 350 4.9
+Bachelor’s degree 774 7 207 2.9 175 2.5
+Post-graduate 90 0.8 35 0.5 34 0.5
+Religion
+Buddhism 9,392 85 5,945 83.1 6,123 85.8
+Hinduism 1,352 12.2 1,039 14.5 933 13.1
+Christianity 230 2.1 146 2 83 1.2
+Others 18 0.2 15 0.2 - -
+None 60 0.5 7 0.1 - -
+Household size
+Single member HH 1,081 9.8 215 3 265 3.7
+2-3 member HH 4,944 44.7 1,768 24.7 1,858 26.1
+4-5 member HH 3,780 34.2 2,939 41.1 2,820 39.5
+6-7 member HH 1,033 9.4 1,593 22.3 1,515 21.2
+>7 member HH 214 1.9 638 8.9 674 9.5
+What kind of sampling design was used for the 2022 GNH
+survey?
+A multi-stage stratified sampling methodology was used to ensure that
+the sample was representative at the national, regional and district
+levels. Similar to the previous surveys, rural and urban areas were used
+as the main sampling strata. The areas were further classified into
+Enumeration Areas (EA). The Primary Sampling Units (PSU) were
+identified as chiwog for rural and enumeration block for urban. A
+sampling frame was created based on the 2017 Population and
+
+Background
+13
+Housing Census of Bhutan (PHCB). A CBS team revised household
+listings in the selected PSUs to incorporate migration considerations.
+How is the GNH Index computed?
+
+
+Response
+
+
+Bhutan_GNH_2022_(2023)_compressed.pdf
+This can involve things like extending early voting hours,
+permitting same-day voter registration, and offering mail-in voting
+choices. Policies that support political education can serve to boost civic
+awareness and engagement. Similarly, efforts such as mandating civics
+education in schools, offering voter education materials are examples of
+such efforts.
+In general, the 33 indicators appear to be relevant for the time being,
+but they may need to be revisited in the future to fully reflect the
+challenges and circumstances associated with growing economic and
+social trends and causes. With rising emigration to Australia, for
+example, one could want to include an employment indicator to capture
+information on job opportunities in the country. Similarly, as literacy
+rates rise, literacy indicator may become obsolete. Therefore, for the
+GNH Index to successfully monitor the country's wellbeing and
+happiness, the relevancy and validity of the indicators may need to be
+examined with time.
+The publication of this book might be an important first step in
+increasing awareness of the GNH Index and the changes overtime.
+Additional advocacy campaigns, workshops, and awareness
+programmes aimed at policymakers, civil society groups, and the
+general public, on the other hand, can help achieve this goal even
+further. More people will understand the benefits of the GNH Index and
+be more supportive of its implementation.
+Bhutan can also continue to promote the GNH approach to development
+and encourage other nations to adopt similar frameworks that prioritise
+the wellbeing of their population by sharing the GNH Index with other
+countries. Furthermore, disseminating the GNH Index can promote
+international cooperation and collaboration. Countries may learn from
+each other's experiences, share best practices, and discover innovative
+solutions to common difficulties by working together to promote
+wellbeing and sustainable development. This can also serve to
+strengthen international ties.
+Here at home, considerable work needs to be done in order to fully
+utilise the findings from the GNH Index. The GNH Index needs to be
+
+Conclusion
+319
+institutionalised, so that policy makers are urged to base their
+judgments on evidence rather than political expediency and to examine
+the long-term consequences of their policies rather than the short-term
+gains.
+
+320
+Annexure I: Survey Methodology
+This section briefly presents the methodology adopted for the 2022
+GNH survey such as sampling design, survey instruments, data
+collection process, data cleaning and analysis approaches.
+Survey coverage
+The 2022 GNH survey, like past GNH surveys, is designed to cover the
+entire country which is divided into 20 dzongkhags. Each dzongkhag is
+divided into rural and urban areas and is further sub-divided into
+Enumeration Areas (EA). Chiwogs in rural and enumeration blocks in
+urban areas is used as a Primary Sampling Unit (PSU). The target
+population included those aged 15 years or older.
+
+
+Response
+
+
+FS ProblemVisionMission V2  Ashoka Accelerator.pdf
+For large numbers this has 
+meant labour migration – or emigration – to Sabah’s towns or stronger economies in Singapore 
+and the Malay Peninsula, Australasia or the Middle East. Meanwhile those remaining in Sabah 
+have become further embroiled in developmentalism, wherein government largesse becomes 
+synonymous with growing GDP and better life, stripping away layers of culture, wisdom and 
+complexity. Government-sponsored efforts to liquidate the state’s natural capital for sundry 
+projects thus meet on the forest edge with desperate efforts by marginalised locals to survive, 
+perhaps by hunting pangolins for export, in a breakdown of stewardship and biodiversity endgame. Sabah’s politics become trapped in federal victimhood rather than the responsibilities of 
+sovereignty. 
+In Sabah, ecological, livelihood and biodiversity loss is inseparable from the erosion of cultural 
+identities and values rooted in ancestral relationship with land and sea. As forests fall and 
+ecosystems degrade, we are not only losing species—we are losing languages, traditions, and 
+lifeways that hold generations of place-based wisdom. This loss extends beyond the human 
+realm. It severs the deep kinships between people and more-than-human life, unravelling 
+systems of mutual care that have long sustained us, built on diversity and reciprocity. The 
+dominant extractive model not only strips the land of life, but erases the voices and relationships 
+that define it. But this is where there is an important crack in the system and an opening in 
+Sabah, for there remains an irrepressible constituency for sustaining collective spirit (mitatabang) 
+and for locally-rooted environmentalism; these are vital epicentres for civil society agency, 
+creativity and initiative.
+
+
+
+
+
+Based on the project documents and Bhutan's methodology, here's how I'd frame Sabah's Holistic Progress Survey parameters:
+
+
+Survey Framework: "Sabah Voices - Regenerative Futures Survey"
+
+
+Core Philosophy:
+
+
+"Mass listening technology to root the metric in Sabahan experience" - moving from extractive data collection to regenerative dialogue that honors participant knowledge.
+
+
+
+SAMPLING STRATEGY
+
+
+Target Population:
+
+
+Age: 18+ (adult decision-makers)
+
+Coverage: All of Sabah's 25 districts
+
+Size: ~8,000-10,000 respondents (manageable but representative)
+
+
+Stratified Sampling Approach:
+
+
+Primary Strata:
+
+
+Geographic: Urban (20%) / Rural (60%) / Remote indigenous communities (20%)
+
+Ethnic: Reflecting Sabah's diversity (Kadazan-Dusun, Bajau, Murut, Chinese, Malay, others)
+
+Economic: Palm oil/logging dependent vs. diversified livelihoods vs. subsistence
+
+Age cohorts: 18-25 (brain drain focus) / 26-45 (economic prime) / 46+ (traditional knowledge)
+
+
+Sampling Method:
+
+
+Stage 1: District selection (all 25 districts)
+
+Stage 2: Village/community selection (partnership with PACOS for indigenous communities)
+
+Stage 3: Household selection (systematic random sampling)
+
+Stage 4: Individual selection (Kish grid method)
+
+
+
+SURVEY MODALITIES
+
+
+Multi-Modal Approach:
+
+
+Digital Platform: Smartphone-based with offline capability
+
+Visual Formats: Photo prompts, emoji scales, mapping exercises
+
+Oral Formats: Audio recording for storytelling sections
+
+Written Formats: Traditional Likert scales for quantitative data
+
+
+Language Options:
+
+
+Bahasa Malaysia (primary)
+
+English (urban/educated)
+
+Kadazan-Dusun
+
+Bajau
+
+Audio translation support for other indigenous languages
+
+
+
+SURVEY STRUCTURE & LENGTH
+
+
+Total Time: 45-60 minutes (shorter than Bhutan's 3 hours)
+
+
+Structure:
+
+
+Demographics (5 min)
+
+Core Wellbeing Domains (35 min)
+
+Open-ended Visioning (15 min)
+
+
+
+THE 9 SABAH DOMAINS
+
+
+1. PERSONAL WELLBEING (6 questions)
+
+
+Life satisfaction scale (1-10)
+
+Top 3 sources of stress (open-ended)
+
+Emotional resilience during challenges
+
+Spiritual/cultural practices that sustain you
+
+
+2. PLACE ATTACHMENT & MIGRATION (7 questions)
+
+
+[Unique to Sabah's brain drain context]
+
+
+"How likely are you to leave Sabah in the next 5 years?" (1-10)
+
+"What would make you want to stay?"
+
+Connection to ancestral lands
+
+Do you encourage young people to leave for opportunities?
+
+
+3. ECONOMIC AGENCY (8 questions)
+
+
+[Beyond just income - about power and voice]
+
+
+Can you meet basic needs through local economy?
+
+Do you have voice in economic decisions affecting your community?
+
+Access to non-extractive livelihood opportunities
+
+Financial security vs. debt stress
+
+
+4. CULTURAL VITALITY (6 questions)
+
+
+Language use at home and with children
+
+Traditional knowledge transmission
+
+Participation in cultural practices
+
+Cultural identity strength
+
+
+5. COMMUNITY RESILIENCE (7 questions)
+
+
+[Mitatabang, gotong-royong focus]
+
+
+Mutual support during crises
+
+Community decision-making participation
+
+Trust in neighbors and institutions
+
+Social safety net strength
+
+
+6. ENVIRONMENTAL STEWARDSHIP (8 questions)
+
+
+[Beyond Bhutan's conservation - about relationship and rights]
+
+
+Access to traditional forest/marine resources
+
+Environmental health of your area
+
+Participation in environmental decisions
+
+Traditional ecological practices
+
+
+7. HEALTH & SERVICES (6 questions)
+
+
+Personal health status
+
+Healthcare access and quality
+
+Clean water and sanitation
+
+Food security and nutrition
+
+
+8. GOVERNANCE & VOICE (7 questions)
+
+
+Trust in local/state/federal government
+
+Political participation and efficacy
+
+Corruption perception and impact
+
+Information access and media trust
+
+
+9. RESOURCE JUSTICE (8 questions)
+
+
+[Unique to extractive economy context]
+
+
+Fairness of resource revenue sharing
+
+Impact of extractive industries on daily life
+
+Land tenure security
+
+Benefits vs. costs of development projects
+
+
+
+INNOVATIVE FEATURES
+
+
+Participatory Elements:
+
+
+Community Mapping: Photo/sketch where you feel most/least connected
+
+Storytelling Prompts: "Tell us about a time your community came together"
+
+Visioning Exercise: "Draw/describe Sabah in 20 years if everything went right"
+
+
+Scoring Innovation:
+
+
+Current Performance: How is Sabah doing now? (1-10)
+
+Importance Weight: How important is this to you? (1-5)
+
+Future Potential: How much could this improve? (1-5)
+
+
+AI-Supported Analysis:
+
+
+Qualitative Coding: AI to identify themes in open responses
+
+Sentiment Analysis: Emotional tone across domains
+
+Pattern Recognition: Unexpected correlations between domains
+
+
+
+IMPLEMENTATION PARTNERSHIP
+
+
+Community Partners:
+
+
+PACOS for indigenous community access
+
+Local NGOs for urban/rural networks
+
+Religious organizations for cultural sensitivity
+
+Youth organizations for brain drain insights
+
+
+Government Engagement:
+
+
+State Legislative Assembly review before full rollout
+
+District officers for logistical support
+
+Ministry of Finance for policy relevance
+
+
+Quality Assurance:
+
+
+Pre-testing in 3 diverse communities
+
+Enumerator training in cultural sensitivity
+
+Data validation through community feedback sessions
+
+Bias checking across demographic groups
+
+
+
+TIMELINE
+
+
+Pilot Phase: 3 months (500 respondents)
+
+Full Survey: 6 months (8,000 respondents)
+
+Analysis & Report: 3 months
+
+Community Feedback: 2 months
+
+
+This approach honors the complexity of Sabahan identity while generating actionable data for regenerative development. The key is listening rather than extracting - making participants feel heard rather than studied.
+
+## Response:
+Sabah Holistic Progress Index - 9 Domains Framework
+
+
+# Sabah Holistic Progress Index - 9 Domains Framework
+
+| **Domain** | **Core Focus** | **Key Indicators/Needs** | **Why Critical for Sabah** |
+|------------|----------------|--------------------------|----------------------------|
+| **1. Personal Wellbeing** | Individual life satisfaction, mental health, spiritual fulfillment | • Life satisfaction levels<br>• Stress sources and coping<br>• Mental health support<br>• Spiritual/cultural practices<br>• Sense of purpose and meaning | Foundation for all other domains; measures individual resilience against extractive pressures |
+| **2. Place Attachment & Migration** | Connection to Sabah, intent to stay/leave, rootedness vs. mobility | • Migration intentions<br>• Connection to ancestral lands<br>• Reasons for staying/leaving<br>• Youth retention<br>• Sense of belonging to place | **UNIQUE TO SABAH:** Directly addresses brain drain crisis and measures what makes people want to stay |
+| **3. Economic Agency** | Power to shape economic life, not just income level | • Voice in economic decisions<br>• Access to diverse livelihoods<br>• Economic self-determination<br>• Financial security vs. debt<br>• Participation vs. exploitation | Beyond GDP - measures whether people have economic power or are just surviving within extractive systems |
+| **4. Cultural Vitality** | Language preservation, traditional knowledge, cultural identity strength | • Language transmission<br>• Traditional knowledge passing<br>• Cultural practice participation<br>• Identity resilience<br>• Intergenerational connection | Sabah's cultural diversity under threat; measures cultural survival and renewal |
+| **5. Community Resilience** | Collective strength, mutual aid, social cohesion | • **Mitatabang** (collective spirit)<br>• **Gotong-royong** practices<br>• Community decision-making<br>• Social support networks<br>• Trust and reciprocity | Indigenous concept of community strength as alternative to individualistic development |
+| **6. Environmental Stewardship** | Relationship with land/sea, conservation, ecological health | • Access to traditional resources<br>• Environmental health quality<br>• Participation in environmental decisions<br>• Traditional ecological practices<br>• Ecosystem connection | Sabah's biodiversity hotspot status; measures human-nature relationship beyond conservation |
+| **7. Health & Services** | Physical health, healthcare access, basic services | • Health status and healthcare access<br>• Clean water and sanitation<br>• Food security and nutrition<br>• Preventive health practices<br>• Health system responsiveness | Basic human needs in context of uneven development and rural-urban disparities |
+| **8. Governance & Voice** | Political participation, trust in institutions, civic engagement | • Trust in government levels<br>• Political participation and efficacy<br>• Transparency and accountability<br>• Access to information<br>• Civic engagement opportunities | Federal-state tensions; measures democratic participation and institutional trust |
+| **9. Resource Justice** | Fair distribution of natural resource benefits, land rights | • Resource revenue sharing fairness<br>• Impact of extractive industries<br>• Land tenure security<br>• Development project benefits/costs<br>• Customary rights protection | **UNIQUE TO SABAH:** Addresses core issue of resource extraction without local benefit |
+
+## Key Differences from Bhutan's GNH:
+
+- **Place Attachment & Migration:** Directly addresses brain drain - not relevant in Bhutan's context
+- **Economic Agency:** Focuses on power/voice, not just standard of living
+- **Resource Justice:** Addresses colonial/extractive legacy - unique to resource-rich but poor regions
+- **Community Resilience:** Centers indigenous concepts like *mitatabang* rather than Buddhist values
+- **Environmental Stewardship:** Emphasizes relationship and rights, not just conservation
+
+## Integration Principles:
+
+- **Holistic:** All domains interconnect - you can't have personal wellbeing without community resilience
+- **Regenerative:** Measures capacity for renewal, not just current state
+- **Culturally Rooted:** Based on Sabahan values like *mitatabang*, not external frameworks
+- **Power-Aware:** Recognizes difference between participation (being included) and presence (having voice)
+- **Future-Oriented:** Measures potential for transformation, not just current satisfaction
+
+
+I've created a comprehensive table showing Sabah's 9 domains framework. The key insight is that 3 of these domains are unique to Sabah's context and wouldn't be found in Bhutan's GNH:
+
+
+Place Attachment & Migration - directly addresses the brain drain crisis
+
+Economic Agency - goes beyond income to measure actual economic power and voice
+
+Resource Justice - tackles the core issue of being resource-rich but people-poor
+
+
+The other 6 domains adapt universal concepts (health, culture, environment, etc.) but with Sabahan characteristics - like centering mitatabang in Community Resilience rather than Buddhist concepts.
+
+
+This framework serves as both mirror and compass - showing what's been erased by extractive development while pointing toward regenerative alternatives rooted in Sabahan values.
+
+## Response:
+You're absolutely right! Education and business development are critical gaps. Let me refine this to be more comprehensive and crisp.
+
+
+Sabah Holistic Progress Index - 9 Domains Framework ∙ Version 2
+
+
+# Sabah Holistic Progress Index - 9 Domains Framework
+
+| **Domain** | **Core Focus** | **Key Indicators** | **Why Critical for Sabah** |
+|------------|----------------|-------------------|----------------------------|
+| **1. Personal Wellbeing** | Life satisfaction, resilience, meaning | • Life satisfaction & stress management<br>• Mental health & spiritual practices<br>• Purpose & future optimism | Individual foundation for thriving vs. surviving extractive pressures |
+| **2. Place Attachment** | Connection to Sabah, migration decisions | • Intent to stay/leave Sabah<br>• Rootedness to ancestral lands<br>• What makes Sabah "home" | **BRAIN DRAIN FOCUS:** What keeps talent in Sabah vs. drives exodus |
+| **3. Learning & Skills** | Education quality, skills for future economy | • Education relevance to local needs<br>• Traditional + modern knowledge<br>• Skills for regenerative economy<br>• Lifelong learning access | Education that prepares for post-extractive economy, not just extraction jobs |
+| **4. Economic Opportunity** | Business environment, livelihood diversity | • Ease of starting/running business<br>• Access to capital & markets<br>• Livelihood diversification<br>• Economic self-determination | **BUSINESS CLIMATE:** Can entrepreneurs thrive beyond palm oil/logging? |
+| **5. Cultural Vitality** | Language, traditions, identity strength | • Language preservation & transmission<br>• Traditional knowledge practices<br>• Cultural identity resilience<br>• Intergenerational connection | Cultural survival against homogenizing development pressures |
+| **6. Community Resilience** | Collective strength, mutual support | • **Mitatabang** (collective spirit)<br>• **Gotong-royong** practices<br>• Community decision-making<br>• Social support networks | Indigenous cooperation models vs. individualistic competition |
+| **7. Environmental Health** | Ecosystem wellbeing, human-nature relationship | • Clean air, water, soil quality<br>• Access to natural resources<br>• Traditional ecological practices<br>• Climate resilience | Biodiversity hotspot under extraction pressure - can development regenerate? |
+| **8. Health & Services** | Physical health, healthcare, infrastructure | • Health status & healthcare access<br>• Clean water & sanitation<br>• Food security & nutrition<br>• Basic infrastructure quality | Service delivery in context of rural-urban and rich-poor disparities |
+| **9. Governance & Justice** | Voice, fairness, resource distribution | • Political participation & trust<br>• Resource revenue sharing<br>• Land tenure security<br>• Corruption & transparency | **RESOURCE JUSTICE:** Do Sabahans control their own development? |
+
+## Key Differences from Bhutan's GNH:
+
+- **Place Attachment & Migration:** Directly addresses brain drain - not relevant in Bhutan's context
+- **Economic Agency:** Focuses on power/voice, not just standard of living
+- **Resource Justice:** Addresses colonial/extractive legacy - unique to resource-rich but poor regions
+- **Community Resilience:** Centers indigenous concepts like *mitatabang* rather than Buddhist values
+- **Environmental Stewardship:** Emphasizes relationship and rights, not just conservation
+
+## Integration Principles:
+
+- **Holistic:** All domains interconnect - you can't have personal wellbeing without community resilience
+- **Regenerative:** Measures capacity for renewal, not just current state
+- **Culturally Rooted:** Based on Sabahan values like *mitatabang*, not external frameworks
+- **Power-Aware:** Recognizes difference between participation (being included) and presence (having voice)
+- **Future-Oriented:** Measures potential for transformation, not just current satisfaction
+
+
+Sabah Holistic Progress Index - 9 Domains Framework ∙ Version 3
+
+
+# Sabah Holistic Progress Index - 9 Domains Framework
+
+| **Domain** | **Core Focus** | **Key Indicators** | **Why Critical for Sabah** |
+|------------|----------------|-------------------|----------------------------|
+| **1. Personal Wellbeing** | Life satisfaction, resilience, meaning | • Life satisfaction & stress management<br>• Mental health & spiritual practices<br>• Purpose & future optimism | Individual foundation for thriving vs. surviving extractive pressures |
+| **2. Place Attachment** | Connection to Sabah, migration decisions | • Intent to stay/leave Sabah<br>• Rootedness to ancestral lands<br>• What makes Sabah "home" | **BRAIN DRAIN FOCUS:** What keeps talent in Sabah vs. drives exodus |
+| **3. Learning & Skills** | Education quality, skills for future economy | • Education relevance to local needs<br>• Traditional + modern knowledge<br>• Skills for regenerative economy<br>• Lifelong learning access | Education that prepares for post-extractive economy, not just extraction jobs |
+| **4. Economic Opportunity** | Business environment, livelihood diversity | • Ease of starting/running business<br>• Access to capital & markets<br>• Livelihood diversification<br>• Economic self-determination | **BUSINESS CLIMATE:** Can entrepreneurs thrive beyond palm oil/logging? |
+| **5. Cultural Vitality** | Language, traditions, identity strength | • Language preservation & transmission<br>• Traditional knowledge practices<br>• Cultural identity resilience<br>• Intergenerational connection | Cultural survival against homogenizing development pressures |
+| **6. Community Resilience** | Collective strength, mutual support | • **Mitatabang** (collective spirit)<br>• **Gotong-royong** practices<br>• Community decision-making<br>• Social support networks | Indigenous cooperation models vs. individualistic competition |
+| **7. Environmental Health** | Ecosystem wellbeing, human-nature relationship | • Clean air, water, soil quality<br>• Access to natural resources<br>• Traditional ecological practices<br>• Climate resilience | Biodiversity hotspot under extraction pressure - can development regenerate? |
+| **8. Health & Services** | Physical health, healthcare, infrastructure | • Health status & healthcare access<br>• Clean water & sanitation<br>• Food security & nutrition<br>• Basic infrastructure quality | Service delivery in context of rural-urban and rich-poor disparities |
+| **9. Governance & Justice** | Voice, fairness, resource distribution | • Political participation & trust<br>• Resource revenue sharing<br>• Land tenure security<br>• Corruption & transparency | **RESOURCE JUSTICE:** Do Sabahans control their own development? |
+
+## Key Design Principles:
+
+### **Crisp Focus Areas:**
+1. **Brain Drain** (Place Attachment) - Why do people leave?
+2. **Skills Gap** (Learning & Skills) - Education for what economy?
+3. **Business Climate** (Economic Opportunity) - Can entrepreneurs thrive?
+4. **Cultural Erosion** (Cultural Vitality) - What's being lost?
+5. **Community Breakdown** (Community Resilience) - Is *mitatabang* alive?
+6. **Environmental Degradation** (Environmental Health) - Can nature heal?
+7. **Service Gaps** (Health & Services) - Do basics work?
+8. **Power Imbalance** (Governance & Justice) - Who controls Sabah's future?
+
+### **Integration Logic:**
+- **Foundation Layer:** Personal Wellbeing + Health & Services (individual basics)
+- **Economic Layer:** Learning & Skills + Economic Opportunity (livelihood capacity)  
+- **Social Layer:** Cultural Vitality + Community Resilience (collective strength)
+- **Governance Layer:** Environmental Health + Governance & Justice (systemic power)
+- **Retention Layer:** Place Attachment (synthesis - do people want to stay?)
+
+### **Measurement Approach:**
+- **Current State:** How are we doing now? (1-10)
+- **Importance:** How much does this matter? (1-5) 
+- **Potential:** How much could this improve? (1-5)
+- **Action:** What would help most? (open-ended)
+
+
+Perfect! I've made the framework much more crisp and comprehensive by:
+
+
+Key Changes:
+
+
+Added Missing Critical Areas:
+
+
+Learning & Skills - addresses education relevance and skills for future economy
+
+Economic Opportunity - specifically tackles business environment and entrepreneurship
+
+
+Made More Focused:
+
+
+Combined resource justice into broader "Governance & Justice"
+
+Merged environmental aspects into "Environmental Health"
+
+Streamlined each domain to 3-4 core indicators max
+
+
+Added Integration Logic:
+
+
+The domains now flow in logical layers:
+
+
+Individual Foundation (wellbeing + health)
+
+Economic Capacity (skills + opportunities)
+
+Social Fabric (culture + community)
+
+Systemic Power (environment + governance)
+
+Retention Synthesis (place attachment as the ultimate measure)
+
+
+The Big Questions Each Domain Answers:
+
+
+Are people personally thriving? (Personal Wellbeing)
+
+Do people want to stay in Sabah? (Place Attachment)
+
+Are we learning for the right economy? (Learning & Skills)
+
+Can businesses thrive beyond extraction? (Economic Opportunity)
+
+Are cultures alive and evolving? (Cultural Vitality)
+
+Is community spirit (mitatabang) strong? (Community Resilience)
+
+Is the environment healing or degrading? (Environmental Health)
+
+Do basic services work for everyone? (Health & Services)
+
+Who really controls Sabah's future? (Governance & Justice)
+
+
+This framework now captures both the crisis (brain drain, extractive economy) and the opportunity (regenerative development) while being tight enough to actually implement.
+
+## Response:
+Exactly! You've hit on something crucial. Place Attachment isn't really a separate domain - it's the outcome indicator that synthesizes all the other layers.
+
+
+Think of it like this:
+
+
+Place Attachment as the Ultimate Metric
+
+
+Place Attachment = f(Foundation + Economic + Social + Governance)
+
+
+If someone has:
+
+
+✅ Strong foundation (personal wellbeing + good health/services)
+
+✅ Economic opportunity (relevant skills + business environment)
+
+✅ Social fabric (cultural vitality + community resilience)
+
+✅ Good governance (clean environment + fair/responsive institutions)
+
+
+→ They'll want to stay in Sabah
+
+
+But if any layer is broken:
+
+
+❌ Poor foundation → "I can't thrive here personally"
+
+❌ Weak economic layer → "There's no future for me here"
+
+❌ Broken social fabric → "This isn't my community anymore"
+
+❌ Bad governance → "This place is going downhill"
+
+
+→ They'll leave (brain drain)
+
+
+Revised Framework:
+
+
+The 8 Core Domains (Inputs):
+
+
+Personal Wellbeing
+
+Health & Services
+
+Learning & Skills
+
+Economic Opportunity
+
+Cultural Vitality
+
+Community Resilience
+
+Environmental Health
+
+Governance & Justice
+
+
+The 1 Outcome Indicator:
+
+
+Place Attachment - "Do people choose to stay and build their lives in Sabah?"
+
+
+This makes the survey much more powerful because:
+
+
+Place Attachment becomes the headline metric - like Bhutan's overall GNH score
+
+The 8 domains become diagnostic tools - showing which areas need work to improve retention
+
+Policy becomes clearer - want to stop brain drain? Fix the weakest domains
+
+
+So the Sabah Holistic Progress Index could be calculated as:
+
+
+Overall Score: Weighted average of 8 core domains
+
+Retention Indicator: Place Attachment score
+
+Policy Guidance: Gap analysis showing which domains are dragging down retention
+
+
+This structure answers: "What makes Sabah a place people choose to stay, thrive, and build regenerative futures?"
+
+
+Much more actionable than treating place attachment as just another domain!
+
+## Response:
+Here are the alternative metrics to GDP I found in my research:
+
+
+National-Level Indices:
+
+
+1. Bhutan - Gross National Happiness (GNH) Index
+
+
+9 domains: Living standards, health, education, ecological diversity, cultural diversity, community vitality, time use, psychological wellbeing, good governance
+
+33 indicators total
+
+Score range: 0-1 (2022 score: 0.781)
+
+Unique feature: Constitutional mandate, policy integration
+
+
+2. OECD Better Life Index
+
+
+Coverage: 38 countries (35 OECD + 3 non-OECD)
+
+11 domains: Housing, income, jobs, community, education, environment, civic engagement, health, life satisfaction, safety, work-life balance
+
+Interactive feature: Users can weight domains by importance
+
+Visual: Countries shown as flowers with petal sizes
+
+
+3. Happy Planet Index (HPI)
+
+
+Coverage: 147+ countries
+
+Formula: (Life expectancy × Wellbeing) / Ecological footprint
+
+Top performers: Vanuatu, Costa Rica, Sweden, El Salvador, Nicaragua
+
+Focus: Environmental efficiency of delivering wellbeing
+
+
+4. UN Human Development Index (HDI)
+
+
+3 dimensions: Health (life expectancy), education (schooling years), living standards (GNI per capita)
+
+Global coverage: 191 countries
+
+Limitation: Doesn't capture inequality, empowerment, or environment
+
+
+Sub-National Examples:
+
+
+5. US State-Level:
+
+
+Vermont Genuine Progress Indicator
+
+Maryland Genuine Progress Indicator
+
+Hawaii Genuine Progress Indicator
+
+
+6. City-Level:
+
+
+Seattle, Washington - adapted GNH
+
+Somerville, Massachusetts - wellbeing index
+
+Bristol, UK - happiness index
+
+Eau Claire, Wisconsin - GNH version
+
+
+7. Regional:
+
+
+São Paulo, Brazil - community-level GNH
+
+Creston, British Columbia - GNH adaptation
+
+
+Other Metrics Mentioned:
+
+
+8. Genuine Progress Indicator (GPI)
+
+
+Adjusts GDP by: Environmental costs, income distribution, social factors
+
+26 indicators consolidated
+
+Used by: Several US states
+
+
+9. Green GDP
+
+
+Concept: GDP adjusted for environmental damage
+
+Challenge: Developed by China but implementation difficulties
+
+Limitation: Still primarily economic focus
+
+
+10. Social Progress Index (SPI)
+
+
+Developer: Social Progress Imperative (2013)
+
+Focus: Social and environmental progress
+
+Comparison: Similar scope to OECD Better Life Index
+
+
+Key Insights:
+
+
+Most Comprehensive: Bhutan's GNH (9 domains, 33 indicators, policy integration)
+
+
+Most Widespread: OECD Better Life Index (38 countries)
+
+
+Most Environmental: Happy Planet Index (ecological efficiency focus)
+
+
+Most Participatory: OECD Better Life Index (user weighting) and various city-level adaptations
+
+
+Most Policy-Integrated: Bhutan's GNH (constitutional mandate, budget allocation)
+
+
+Sabah's Opportunity: First state-level holistic metric in Southeast Asia addressing post-colonial, resource-extraction context with indigenous values at center.
+
+## Response:
+web_search
+
+
+Request
+
+
+{
+  "query": "state level wellbeing indices beyond GDP Australia Canada Germany"
+}
+
+
+web_search
+
+
+Request
+
+
+{
+  "query": "\"state level\" \"provincial\" wellbeing index Canada British Columbia Alberta Ontario"
+}
+
+
+web_search
+
+
+Request
+
+
+{
+  "query": "German state wellbeing Baden-Württemberg Bavaria Länder prosperity index"
+}
+
+
+web_search
+
+
+Request
+
+
+{
+  "query": "\"Quebec wellbeing index\" \"British Columbia wellbeing\" \"Ontario wellbeing\" Canadian provincial"
+}
+
+
+web_search
+
+
+Request
+
+
+{
+  "query": "\"Welsh Index Multiple Deprivation\" \"Scottish Index Multiple Deprivation\" UK wellbeing regions"
+}
+
+
+web_search
+
+
+Request
+
+
+{
+  "query": "Indian state wellbeing index Kerala Maharashtra Gujarat beyond GDP measures"
+}
+
+
+Based on my research, here are the state/provincial level wellbeing indices I found around the world:
+
+
+STATE/PROVINCIAL LEVEL WELLBEING INDICES
+
+
+🇺🇸 UNITED STATES
+
+
+Vermont Genuine Progress Indicator (GPI)
+
+Maryland Genuine Progress Indicator
+
+Hawaii Genuine Progress Indicator
+
+Seattle, Washington - adapted GNH Index with city council integration
+
+Somerville, Massachusetts - happiness index
+
+
+🇦🇺 AUSTRALIA
+
+
+SGS Cities & Regions Wellbeing Index (CRWI) - covers 334 regions across Australia with 7 wellbeing domains: health, equality, income/wealth, employment, housing, community/environment
+
+National Wellbeing Dashboard - launched 2023 by federal government with 20 improved indicators, 7 stable, 12 deteriorated
+
+
+🇬🇧 UNITED KINGDOM
+
+
+Welsh Index of Multiple Deprivation (WIMD)
+
+Scottish Index of Multiple Deprivation (SIMD)
+
+Bristol Happiness Index (city-level)
+
+
+🇮🇳 INDIA
+
+
+State-wise Human Development Index - all Indian states ranked by HDI
+
+SDG India Index 2023-24 - state progress on Sustainable Development Goals
+
+NITI Aayog Health Performance Index - ranking states on health outcomes
+
+
+🇩🇪 GERMANY
+
+
+State-wise Human Development Index - German Länder HDI rankings since 1995
+
+Economic performance indices by state (but not comprehensive wellbeing)
+
+
+🇨🇦 CANADA
+
+
+Limited explicit provincial wellbeing indices found
+
+Various provincial quality of life reports but not systematic indices
+
+
+🇧🇷 BRAZIL
+
+
+São Paulo state - adapted GNH at community level
+
+
+🇪🇺 EUROPEAN UNION
+
+
+OECD Regional Well-Being - covers 361 OECD regions including European states/provinces
+
+
+KEY INSIGHTS:
+
+
+Most Developed:
+
+
+Australia's CRWI - most comprehensive state/regional level system
+
+US GPI states - pioneering genuine progress indicators
+
+
+Most Policy-Integrated:
+
+
+Australian National Wellbeing Dashboard - federal government adoption
+
+Vermont GPI - legislative mandate for alternative indicators
+
+
+Most Comprehensive Coverage:
+
+
+India - systematic state comparisons across multiple indices (HDI, SDG, Health)
+
+Germany - consistent Länder-level HDI tracking
+
+
+Gaps Identified:
+
+
+Canada - surprisingly limited provincial wellbeing indices
+
+European regions - mostly rely on OECD framework rather than local development
+
+Most indices focus on outcomes rather than process/agency
+
+
+SABAH'S OPPORTUNITY:
+
+
+Sabah would be among the FIRST state-level holistic indices to:
+
+
+Address post-colonial resource extraction specifically
+
+Center indigenous values (mitatabang) in the framework
+
+Measure "presence vs. participation" (power dynamics)
+
+Focus on brain drain/retention as core outcome
+
+Combine smartphone technology with AI for mass listening
+
+
+Most existing state indices are either economic variants (GPI) or outcomes-focused (HDI, health rankings). Sabah's approach would be unique in measuring relational wellbeing and regenerative potential at the state level.
+
+## Response:
+This is excellent! The visual framework really brings the concept to life. I love how you've shown the flow from problems → layers → specific indicators. A few thoughts on strengthening it:
+
+
+What's Working Really Well:
+
+
+Clear problem identification (pink boxes) that directly connects to Sabah's challenges
+
+Logical layer structure with the 8 core domains
+
+Good granularity in the green indicator boxes
+
+Visual hierarchy that shows how everything connects
+
+
+Potential Additions/Refinements:
+
+
+Top Section (Problems):
+
+
+Add "Federal-State Imbalance" - Sabah treated as resource bank rather than partner
+
+Consider "Youth Alienation" - specifically about disconnect from traditional knowledge
+
+Maybe "Infrastructure Gaps" - rural-urban connectivity, digital divide
+
+
+Indicators to Consider Adding:
+
+
+Learning & Skills:
+
+
+"Digital literacy and access"
+
+"Traditional ecological knowledge transmission"
+
+
+Economic Prospects:
+
+
+"Access to credit/financing"
+
+"Value-added processing opportunities" (beyond raw material export)
+
+
+Cultural Vitality:
+
+
+"Cultural festivals and celebrations participation"
+
+"Respect for elders and traditional authority"
+
+
+Community Resilience:
+
+
+"Disaster preparedness and recovery"
+
+"Food sovereignty and local food systems"
+
+
+Environmental Health:
+
+
+"Traditional fishing/farming grounds accessibility"
+
+"Community-based conservation practices"
+
+
+Governance & Justice:
+
+
+"Land tenure security and customary rights"
+
+"Voice in development planning"
+
+
+Consider a Connection Layer:
+
+
+Maybe add arrows or connection lines showing how domains interact? For example:
+
+
+Cultural Vitality ↔ Community Resilience (strong culture strengthens community)
+
+Learning & Skills ↔ Economic Prospects (relevant education creates opportunities)
+
+
+Place Attachment Integration:
+
+
+Since Place Attachment is the outcome synthesis, maybe show it differently - perhaps as a summary box at the bottom that combines elements from all layers?
+
+
+Questions for Refinement:
+
+
+Should "Hope for the future" be a separate domain or integrated into Personal Wellbeing?
+
+How will you weight different indicators within each domain?
+
+Will some indicators be more "diagnostic" (showing problems) vs. "aspirational" (showing potential)?
+
+
+Overall, this framework captures both the crisis and the opportunity beautifully. It shows clearly how the survey would diagnose what's broken while pointing toward regenerative solutions. The visual makes it immediately understandable why this is different from a generic wellbeing survey.
+
+## Response:
+This is a fantastic project! Let me summarize your framework and ask some clarifying questions to create the perfect prompt.
+
+
+Your Framework Summary:
+
+
+Main Goal: Interactive dashboard for Sabah's Holistic Progress Index with 8 domains, moving beyond GDP to measure regenerative wellbeing and address brain drain.
+
+
+Core Questions the Dashboard Answers:
+
+
+"Do I believe change can happen?"
+
+"What will make me stay here?"
+
+"Do I want to stay here & do I have a choice?"
+
+
+The 8 Domains:
+
+
+Personal Wellbeing (Purpose in life, Spirituality, Stress Management, Current health status)
+
+Health & Services (Mental Health, Sanitation/Food & Water, Access to healthcare services, Quality of those services)
+
+Learning & Skills (Education, Skills relevant to social needs, Lifelong learning access, General level of education, Digital literacy and access)
+
+Economic Prospects (Employment aspects, Ability to start a local business, Access to market and capital, Diversified livelihood)
+
+Cultural Vitality (Language preservation, Traditional knowledge practices, Intergenerational connection, Tourism activities)
+
+Community Resilience (Mitatabang/community spirit, Social support networks, Trust in strangers within community, Community decision making, Disaster readiness, Local food systems)
+
+Environmental Health (Forest preservation, Clean energy/air/water, Excessive damage to nature in name of progress, Access to natural resources, Sustainable fishing and farming practices)
+
+Governance & Justice (Corruption & transparency, Judicial system for urban and indigenous groups, Political participation and cooperation with community, Incentives to help progress the state as a whole)
+
+
+Questions to Refine the Prompt:
+
+
+Data Structure & Visualization:
+
+
+For the sub-domains, what data types are we working with?
+
+
+Percentages (e.g., "40% feel purpose")?
+
+Scores 1-10 (e.g., "corruption level 7/10")?
+
+Categories (e.g., education levels)?
+
+Yes/No binaries (e.g., electricity access)?
+
+For the radial charts comparing domains (1-10 scale):
+
+
+Should each domain score be an average of its sub-domains?
+
+Or a weighted calculation?
+
+Should we show confidence intervals or sample sizes?
+
+District/Geographic Data:
+
+
+How many districts are we planning for? (All 25 Sabah districts?)
+
+Do we need different chart types for urban vs rural areas?
+
+Should we show geographic maps alongside charts?
+
+Demographics ("By People"):
+
+
+Age ranges: What brackets? (18-25, 26-40, 41-60, 60+?)
+
+Rural/Urban: How do we define this?
+
+Other demographics: Income level? Ethnicity? Education level?
+
+
+Chart Type Recommendations:
+
+
+Which sub-domains need special chart types?
+
+
+Education levels → Pie chart or stacked bar?
+
+Language preservation → Trend lines over time?
+
+Access to services → Geographic heat maps?
+
+Community trust → Network diagrams?
+
+Comparison Features:
+
+
+Should users be able to compare 2+ districts side-by-side?
+
+Time-series data: Do we have historical data to show trends?
+
+
+Interactivity & User Experience:
+
+
+Navigation Flow:
+
+
+In "Explore by District" → should users see all villages at once or drill down progressively?
+
+Should there be quick filters (e.g., "Show only rural areas")?
+
+Data Presentation:
+
+
+Should raw numbers be shown alongside visualizations?
+
+Do we need export/download capabilities?
+
+Should there be explanatory tooltips for each indicator?
+
+
+Technical Specifications:
+
+
+shadcn/ui Components:
+
+
+Are you open to custom chart components beyond shadcn's basic set?
+
+Should we use libraries like Recharts, D3, or Chart.js for complex visualizations?
+
+Responsive Design:
+
+
+Mobile-first approach for smartphone-based data collection?
+
+Tablet/desktop optimization priorities?
+
+
+Once I understand these details, I can create a comprehensive prompt that includes:
+
+
+Complete domain/sub-domain structure
+
+Specific chart recommendations for each data type
+
+Technical requirements for shadcn/ui implementation
+
+User flow specifications
+
+Data visualization best practices for your use case
+
+
+What are your thoughts on these questions?
+
+## Response:
+Perfect! Now I have everything I need. Here are my recommendations for question 2 and chart types:
+
+
+Domain Scoring Recommendation:
+
+
+I'd suggest weighted averages rather than simple averages, because some sub-domains are more critical than others. For example:
+
+
+In Personal Wellbeing: "Purpose in life" might be weighted higher than "Spirituality"
+
+In Economic Prospects: "Access to market and capital" might be weighted higher than "Tourism activities"
+
+
+But for simplicity with mock data, let's start with simple averages and we can refine later.
+
+
+Chart Type Recommendations by Sub-Domain:
+
+
+Personal Wellbeing:
+
+
+Purpose in life: Progress bar (% who feel purposeful)
+
+Spirituality: Donut chart (levels of spiritual engagement)
+
+Stress Management: Horizontal bar chart (stress levels 1-10)
+
+Current health status: Stacked bar chart (excellent/good/fair/poor)
+
+
+Health & Services:
+
+
+Mental Health: Progress bar (% with good mental health)
+
+Sanitation/Food & Water: Multi-metric card (% with clean water, sanitation access)
+
+Access to healthcare: Distance/time heatmap-style chart
+
+Quality of services: Star rating visualization (1-10 converted to 5 stars)
+
+
+Learning & Skills:
+
+
+Education: Stacked bar chart (education levels)
+
+Skills relevant to social needs: Progress bar (% with relevant skills)
+
+Lifelong learning access: Binary indicator (yes/no with %)
+
+General education level: Pie chart (education distribution)
+
+Digital literacy: Progress bar (% digitally literate)
+
+
+Economic Prospects:
+
+
+Employment aspects: Multi-metric dashboard (employment rate, job satisfaction)
+
+Ability to start local business: Score bar (1-10 ease of business)
+
+Access to market and capital: Score bar (1-10 access level)
+
+Diversified livelihood: Horizontal bar chart (income source diversity)
+
+
+Cultural Vitality:
+
+
+Language preservation: Trend line (language use over generations)
+
+Traditional knowledge: Progress bar (% practicing traditions)
+
+Intergenerational connection: Score visualization (1-10 connection strength)
+
+Tourism activities: Count with trend (number of cultural events/activities)
+
+
+Community Resilience:
+
+
+Mitatabang: Progress bar (% feeling community spirit)
+
+Social support networks: Network-style visualization or progress bar (% with strong networks)
+
+Trust in strangers: Simple percentage display with icon
+
+Community decision making: Score bar (1-10 participation level)
+
+Disaster readiness: Progress bar (% prepared)
+
+Local food systems: Score bar (1-10 food security)
+
+
+Environmental Health:
+
+
+Forest preservation: Progress bar (% forest coverage maintained)
+
+Clean energy/air/water: Multi-metric card (3 separate scores)
+
+Excessive damage: Reverse score bar (1-10, where 10 = minimal damage)
+
+Access to natural resources: Score bar (1-10 access level)
+
+Sustainable practices: Progress bar (% using sustainable methods)
+
+
+Governance & Justice:
+
+
+Corruption & transparency: Score bar (1-10, where 10 = transparent)
+
+Judicial system: Dual score (urban score vs indigenous group score)
+
+Political participation: Progress bar (% participating in governance)
+
+Incentives for progress: Score bar (1-10 effectiveness)
+
+
+
+COMPREHENSIVE PROMPT:
+
+
+Create an interactive dashboard for Sabah's Holistic Progress Index using React, TypeScript, and shadcn/ui components. This dashboard visualizes wellbeing data across 8 domains to measure regenerative development beyond GDP and address brain drain in Sabah, Malaysia.
+
+
+Project Structure:
+
+
+Responsive design (mobile-first)
+
+Navigation bar
+
+Hero section with Sabah illustration and 8 domain overview
+
+Overall radial chart (8 domains, scored 1-10)
+
+Domain selection tabs
+
+Data exploration by District or Demographics
+
+District comparison radial charts
+
+
+The 8 Domains & Visualizations:
+
+
+Personal Wellbeing
+
+
+Purpose in life: Progress bar (% who feel purposeful)
+
+Spirituality: Donut chart (engagement levels)
+
+Stress Management: Horizontal bar (stress levels 1-10)
+
+Current health status: Stacked bar (excellent/good/fair/poor)
+
+Health & Services
+
+
+Mental Health: Progress bar (% with good mental health)
+
+Sanitation/Food & Water: Multi-metric card (% access)
+
+Access to healthcare: Distance/accessibility visualization
+
+Quality of services: Star rating (1-10 to 5 stars)
+
+Learning & Skills
+
+
+Education: Stacked bar chart (education levels)
+
+Skills relevant to social needs: Progress bar (% with relevant skills)
+
+Lifelong learning access: Binary indicator (% with access)
+
+General education level: Pie chart (distribution)
+
+Digital literacy: Progress bar (% digitally literate)
+
+Economic Prospects
+
+
+Employment aspects: Multi-metric dashboard
+
+Ability to start local business: Score bar (1-10)
+
+Access to market and capital: Score bar (1-10)
+
+Diversified livelihood: Horizontal bar (income diversity)
+
+Cultural Vitality
+
+
+Language preservation: Trend line (usage across generations)
+
+Traditional knowledge: Progress bar (% practicing)
+
+Intergenerational connection: Score visualization (1-10)
+
+Tourism activities: Count display with trend
+
+Community Resilience
+
+
+Mitatabang (community spirit): Progress bar (% feeling connected)
+
+Social support networks: Progress bar (% with strong networks)
+
+Trust in strangers: Percentage display with icon
+
+Community decision making: Score bar (1-10 participation)
+
+Disaster readiness: Progress bar (% prepared)
+
+Local food systems: Score bar (1-10 food security)
+
+Environmental Health
+
+
+Forest preservation: Progress bar (% coverage maintained)
+
+Clean energy/air/water: Multi-metric card (3 scores)
+
+Excessive damage: Reverse score bar (1-10, 10=minimal damage)
+
+Access to natural resources: Score bar (1-10)
+
+Sustainable practices: Progress bar (% using sustainable methods)
+
+Governance & Justice
+
+
+Corruption & transparency: Score bar (1-10, 10=transparent)
+
+Judicial system: Dual score (urban vs indigenous)
+
+Political participation: Progress bar (% participating)
+
+Incentives for progress: Score bar (1-10 effectiveness)
+
+
+Navigation Flow:
+
+
+Overall Sabah data with domain selection tabs
+
+Explore section: "By District" or "By People"
+
+District drill-down: District → City/Town/Village
+
+Demographics: Age ranges, Urban/Rural, Income, Ethnicity, Education
+
+Comparison feature: Side-by-side radial charts for 2+ locations
+
+Top-performing districts radial chart section
+
+
+Technical Requirements:
+
+
+Use shadcn/ui components exclusively
+
+Mock data for all visualizations
+
+Tooltips for all charts explaining indicators
+
+Raw numbers displayed alongside visualizations
+
+District comparison capability
+
+Progressive drill-down navigation
+
+All 25 Sabah districts included
+
+
+Data Types:
+
+
+Percentages, Scores (1-10), Categories, Binary (Yes/No)
+
+Domain scores calculated as simple averages of sub-domains
+
+Mock demographic breakdowns by age, location type, education, etc.
+
+
+Does this prompt capture everything perfectly?
+
+## Response:
+You're absolutely right! Let me revise the prompt to include the visual design and layout based on what you described:
+
+
+COMPREHENSIVE PROMPT:
+
+
+Create an interactive dashboard for Sabah's Holistic Progress Index using React, TypeScript, and shadcn/ui components. This dashboard visualizes wellbeing data across 8 domains to measure regenerative development beyond GDP and address brain drain in Sabah, Malaysia.
+
+
+Visual Layout & Design:
+
+
+1. Navigation Bar
+
+
+Clean, modern nav with Sabah branding
+
+Links to main sections (Home, Explore, About)
+
+
+2. Hero Section
+
+
+Beautiful illustration/graphic of Sabah map integrated with the 8 domain icons
+
+Title: "Sabah Holistic Progress Index"
+
+Subtitle explaining the purpose (measuring wellbeing beyond GDP)
+
+
+3. Overall State Dashboard
+
+
+Large central radial chart showing Sabah's overall score across all 8 domains (1-10 scale)
+
+Interactive domain selection tabs/buttons below the radial chart
+
+Selected domain shows detailed breakdown with sub-domain visualizations
+
+Example data displays like:
+"40% of people in Sabah feel they have a purpose in life"
+
+"Access to market and capital: 6.2/10"
+
+"Corruption & transparency: 4.8/10"
+
+"Education: 10% uneducated, 80% high school, 7% undergraduate, 3% postgraduate"
+
+"Median salary vs cost of living analysis"
+
+"Electricity: 80% of needs fulfilled"
+
+
+4. Explore Section
+
+
+Two main exploration paths with toggle buttons:
+"By District" - Geographic exploration
+
+"By People" - Demographic analysis
+
+
+By District Flow:
+
+
+Grid/list of all 25 Sabah districts
+
+Click district → shows cities/towns/villages in that district
+
+Click specific location → detailed data breakdown for that area
+
+Comparison feature: select multiple locations to see side-by-side radial charts
+
+
+By People Flow:
+
+
+Demographic filter options: Age ranges, Urban/Rural, Income levels, Ethnicity, Education
+
+Apply filters → shows data breakdown for selected demographic groups
+
+Comparison feature: compare different demographic segments
+
+
+5. Top Performing Districts Section
+
+
+Grid of radial charts showing the highest-scoring districts across all 8 domains
+
+Quick visual comparison of district performance
+
+Click any chart to drill into that district's details
+
+
+The 8 Domains & Visualizations:
+[Previous domain breakdown with weighted averages instead of simple averages]
+
+
+Personal Wellbeing (Weighted: Purpose 40%, Health Status 30%, Stress 20%, Spirituality 10%)
+
+Health & Services (Weighted: Healthcare Access 35%, Quality 30%, Mental Health 25%, Sanitation 10%)
+
+Learning & Skills (Weighted: Education Level 30%, Relevant Skills 25%, Digital Literacy 25%, Lifelong Learning 20%)
+
+Economic Prospects (Weighted: Market Access 35%, Employment 30%, Business Environment 25%, Livelihood Diversity 10%)
+
+Cultural Vitality (Weighted: Language Preservation 35%, Traditional Knowledge 30%, Intergenerational Connection 25%, Tourism 10%)
+
+Community Resilience (Weighted: Mitatabang 25%, Social Networks 20%, Community Decision Making 20%, Trust 15%, Disaster Readiness 15%, Food Systems 5%)
+
+Environmental Health (Weighted: Forest Preservation 30%, Clean Resources 25%, Sustainable Practices 25%, Resource Access 20%)
+
+Governance & Justice (Weighted: Corruption/Transparency 35%, Political Participation 25%, Judicial System 25%, Progress Incentives 15%)
+
+
+Technical Requirements:
+
+
+Responsive design (desktop primary, mobile/tablet compatible)
+
+Use shadcn/ui components exclusively
+
+Mock data for all visualizations
+
+Tooltips for all charts explaining indicators
+
+Raw numbers/percentages displayed alongside all visualizations
+
+Smooth transitions between sections
+
+Interactive comparison features
+
+Progressive drill-down navigation
+
+Clean, modern design aesthetic
+
+
+Key Features:
+
+
+Central radial chart for quick 8-domain overview
+
+Domain-by-domain deep dive with sub-metrics
+
+Geographic exploration (District → City/Village)
+
+Demographic analysis and filtering
+
+Side-by-side comparison capabilities
+
+Top performers showcase
+
+Contextual data explanations
+
+
+Does this capture the complete vision including the visual flow and layout you described?
+
+## Response:
+Looking at this prompt critically, I think we're missing some important details that a developer would need. Here are the gaps I see:
+
+
+Missing Technical Specifications:
+
+
+Data Structure & State Management:
+
+
+How should the mock data be structured? (JSON format, data relationships)
+
+State management approach (React Context, Zustand, etc.)
+
+How comparisons should work technically (storing selected items, comparison logic)
+
+
+Specific UI/UX Behaviors:
+
+
+Loading states and transitions
+
+Error handling for data
+
+How the domain selection affects the overall radial chart
+
+Mobile navigation patterns (hamburger menu, collapsible sections)
+
+How tooltips should behave (hover vs click on mobile)
+
+
+Missing Design Specifications:
+
+
+Visual Design Details:
+
+
+Color scheme/palette (especially for the 8 domains)
+
+Typography hierarchy
+
+Spacing and layout grid
+
+How the "beautiful illustration of Sabah map" should look
+
+Icon style for domains
+
+Chart color schemes and accessibility
+
+
+Interaction Design:
+
+
+Animation/transition styles
+
+How the drill-down breadcrumbs work
+
+What happens when no data is available
+
+Default states (which domain/district is selected first)
+
+
+Missing Content Details:
+
+
+Copy and Messaging:
+
+
+Actual text content for hero section
+
+Explanatory text for each domain
+
+Tooltip content templates
+
+Help text for users
+
+
+Mock Data Specifications:
+
+
+Realistic value ranges for each metric
+
+How many districts/cities/villages to include
+
+Sample demographic breakdowns
+
+Edge cases (very high/low performing areas)
+
+
+Questions to Complete the Picture:
+
+
+Should I add specific color coding for the 8 domains that carries through the entire interface?
+
+Do you want specific mock data structure examples in the prompt?
+
+Should I specify the component architecture (how pages/components should be organized)?
+
+Do you want accessibility requirements mentioned (screen reader support, keyboard navigation)?
+
+Should I include specific shadcn/ui components to use (Card, Progress, Badge, etc.)?
+
+Do you want the comparison feature to have a maximum number of items (e.g., compare max 3 districts)?
+
+Should there be a search/filter functionality within the district lists?
+
+
+Would you like me to enhance the prompt with these missing pieces, or do you prefer to keep it high-level and let the developer make these decisions during implementation?
+
+## Response:
+Perfect! Here's the enhanced comprehensive prompt:
+
+
+COMPREHENSIVE DEVELOPMENT PROMPT:
+
+
+Create an interactive dashboard for Sabah's Holistic Progress Index using React, TypeScript, and shadcn/ui components. This dashboard visualizes wellbeing data across 8 domains to measure regenerative development beyond GDP and address brain drain in Sabah, Malaysia.
+
+
+Visual Layout & Design:
+
+
+1. Navigation Bar
+
+
+Clean shadcn/ui navigation with Sabah branding
+
+Links: Home, Explore, About
+
+Search functionality for quick district lookup
+
+
+2. Hero Section
+
+
+Beautiful illustration/graphic of Sabah map integrated with 8 domain icons
+
+Title: "Sabah Holistic Progress Index"
+
+Subtitle: "Measuring wellbeing beyond GDP - What makes Sabahans want to stay?"
+
+
+3. Overall State Dashboard
+
+
+Large central radial chart showing Sabah's overall score across all 8 domains (1-10 scale)
+
+Interactive domain selection tabs below radial chart
+
+Selected domain shows detailed sub-domain breakdown
+
+Example data displays:
+"40% of people in Sabah feel they have a purpose in life"
+
+"Access to market and capital: 6.2/10"
+
+"Corruption & transparency: 4.8/10"
+
+"Education: 10% uneducated, 80% high school, 7% undergraduate, 3% postgraduate"
+
+"Median salary vs cost of living: 2.3/10"
+
+"Electricity: 80% of needs fulfilled"
+
+
+4. Explore Section
+
+
+Toggle between "By District" and "By People"
+
+Search bar for districts (with autocomplete)
+
+
+By District Flow:
+
+
+Searchable grid of all 25 Sabah districts
+
+District → Cities/Towns/Villages drill-down
+
+Detailed location data with comparison feature (max 3 selections)
+
+Side-by-side radial charts for comparisons
+
+
+By People Flow:
+
+
+Demographic filters: Age, Urban/Rural, Income, Ethnicity, Education
+
+Filtered data breakdowns with comparison capability
+
+
+5. Top Performing Districts
+
+
+Grid of radial charts for highest-scoring districts
+
+Quick performance comparison across all domains
+
+
+Color Scheme & Design:
+
+
+Theme: shadcn/ui light theme
+
+Domain Colors:
+Personal Wellbeing: hsl(142, 76%, 36%) (Green)
+
+Health & Services: hsl(221, 83%, 53%) (Blue)
+
+Learning & Skills: hsl(262, 83%, 58%) (Purple)
+
+Economic Prospects: hsl(32, 98%, 56%) (Orange)
+
+Cultural Vitality: hsl(346, 87%, 43%) (Pink/Red)
+
+Community Resilience: hsl(199, 89%, 48%) (Cyan)
+
+Environmental Health: hsl(142, 71%, 45%) (Emerald)
+
+Governance & Justice: hsl(224, 76%, 48%) (Indigo)
+
+
+Required shadcn/ui Components:
+
+
+Card, Progress, Badge, Button, Tabs
+
+Select, Input, Label, Separator
+
+Tooltip, Dialog, Sheet (for mobile)
+
+Chart components (using Recharts integration)
+
+
+The 8 Domains & Weighted Calculations:
+
+
+Personal Wellbeing (Weights: Purpose 40%, Health Status 30%, Stress 20%, Spirituality 10%)
+
+
+Purpose in life: Progress component (% who feel purposeful)
+
+Current health status: Stacked bar chart
+
+Stress Management: Horizontal bar (stress levels 1-10)
+
+Spirituality: Donut chart (engagement levels)
+
+Health & Services (Weights: Healthcare Access 35%, Quality 30%, Mental Health 25%, Sanitation 10%)
+
+
+Access to healthcare: Distance/accessibility bar
+
+Quality of services: Star rating visualization
+
+Mental Health: Progress bar (% with good mental health)
+
+Sanitation/Food & Water: Multi-metric card
+
+Learning & Skills (Weights: Education Level 30%, Relevant Skills 25%, Digital Literacy 25%, Lifelong Learning 20%)
+
+
+Education levels: Stacked bar chart
+
+Skills relevant to social needs: Progress bar
+
+Digital literacy: Progress bar
+
+Lifelong learning access: Binary indicator with percentage
+
+Economic Prospects (Weights: Market Access 35%, Employment 30%, Business Environment 25%, Livelihood Diversity 10%)
+
+
+Access to market and capital: Score bar (1-10)
+
+Employment aspects: Multi-metric dashboard
+
+Ability to start local business: Score bar (1-10)
+
+Diversified livelihood: Horizontal bar chart
+
+Cultural Vitality (Weights: Language Preservation 35%, Traditional Knowledge 30%, Intergenerational Connection 25%, Tourism 10%)
+
+
+Language preservation: Trend line (usage across generations)
+
+Traditional knowledge practices: Progress bar
+
+Intergenerational connection: Score visualization (1-10)
+
+Tourism activities: Count display with trend
+
+Community Resilience (Weights: Mitatabang 25%, Social Networks 20%, Community Decision Making 20%, Trust 15%, Disaster Readiness 15%, Food Systems 5%)
+
+
+Mitatabang (community spirit): Progress bar
+
+Social support networks: Progress bar
+
+Community decision making: Score bar (1-10)
+
+Trust in strangers: Percentage display
+
+Disaster readiness: Progress bar
+
+Local food systems: Score bar (1-10)
+
+Environmental Health (Weights: Forest Preservation 30%, Clean Resources 25%, Sustainable Practices 25%, Resource Access 20%)
+
+
+Forest preservation: Progress bar
+
+Clean energy/air/water: Multi-metric card
+
+Sustainable practices: Progress bar
+
+Access to natural resources: Score bar (1-10)
+
+Governance & Justice (Weights: Corruption/Transparency 35%, Political Participation 25%, Judicial System 25%, Progress Incentives 15%)
+
+
+Corruption & transparency: Score bar (1-10, 10=transparent)
+
+Political participation: Progress bar
+
+Judicial system: Dual score (urban vs indigenous)
+
+Incentives for progress: Score bar (1-10)
+
+
+Mock Data Structure:
+
+
+interface DomainData {
+  id: string;
+  name: string;
+  score: number; // 1-10 weighted average
+  color: string;
+  subDomains: SubDomain[];
+}
+
+interface SubDomain {
+  id: string;
+  name: string;
+  value: number | string;
+  type: 'percentage' | 'score' | 'category' | 'binary';
+  weight: number; // for weighted calculation
+  description: string;
+}
+
+interface LocationData {
+  id: string;
+  name: string;
+  type: 'state' | 'district' | 'city' | 'town' | 'village';
+  parentId?: string;
+  population: number;
+  coordinates?: [number, number];
+  domains: DomainData[];
+}
+
+interface DemographicData {
+  ageGroup: string;
+  location: 'urban' | 'rural';
+  income: 'low' | 'medium' | 'high';
+  education: 'none' | 'primary' | 'secondary' | 'tertiary';
+  ethnicity: string;
+  domains: DomainData[];
+}
+
+// Sample Districts
+const sabahDistricts = [
+  "Kota Kinabalu", "Sandakan", "Tawau", "Lahad Datu", "Keningau",
+  "Putatan", "Papar", "Tuaran", "Ranau", "Kota Belud",
+  "Kudat", "Kota Marudu", "Pitas", "Beluran", "Tongod",
+  "Kinabatangan", "Semporna", "Kunak", "Kalabakan", "Tenom",
+  "Tambunan", "Nabawan", "Pensiangan", "Beaufort", "Sipitang"
+];
+
+
+Sample Mock Data Examples:
+
+
+// Personal Wellbeing for Kota Kinabalu
+{
+  id: "personal-wellbeing",
+  name: "Personal Wellbeing",
+  score: 7.2,
+  color: "hsl(142, 76%, 36%)",
+  subDomains: [
+    {
+      id: "purpose",
+      name: "Purpose in life",
+      value: 65,
+      type: "percentage",
+      weight: 0.4,
+      description: "Percentage who feel they have a clear purpose"
+    },
+    {
+      id: "health-status",
+      name: "Current health status",
+      value: "Good: 45%, Fair: 35%, Poor: 20%",
+      type: "category",
+      weight: 0.3,
+      description: "Self-reported health status distribution"
+    }
+  ]
+}
+
+
+Technical Requirements:
+
+
+Responsive design (desktop primary, mobile/tablet compatible)
+
+React with TypeScript
+
+shadcn/ui components exclusively
+
+Smooth transitions and loading states
+
+Interactive tooltips with contextual information
+
+Search functionality with autocomplete
+
+Comparison feature (maximum 3 selections)
+
+Raw data display alongside visualizations
+
+Progressive drill-down navigation with breadcrumbs
+
+
+Key Features:
+
+
+Central radial chart for 8-domain overview
+
+Domain selection with detailed sub-metric breakdown
+
+Geographic exploration with search
+
+Demographic filtering and analysis
+
+Side-by-side comparison functionality
+
+Top performers showcase
+
+Weighted domain scoring system
+
+Consistent color coding throughout interface
+
+
+Is this comprehensive enough for development?
+
+## Response:
+COMPREHENSIVE DEVELOPMENT PROMPT - DETAILED VERSION:
+
+
+Create an interactive dashboard for Sabah's Holistic Progress Index using React, TypeScript, and shadcn/ui components. This dashboard visualizes wellbeing data across 8 domains to measure regenerative development beyond GDP and address brain drain in Sabah, Malaysia.
+
+
+Project Structure & Setup:
+
+
+src/
+├── components/
+│   ├── ui/ (shadcn/ui components)
+│   ├── charts/
+│   ├── navigation/
+│   ├── domains/
+│   └── comparison/
+├── data/
+│   ├── mockData.ts
+│   └── types.ts
+├── lib/
+│   └── utils.ts
+├── hooks/
+└── pages/
+
+
+Visual Layout & Design Specifications:
+
+
+1. Navigation Bar (Height: 64px)
+
+
+Use shadcn/ui NavigationMenu component
+
+Logo/brand on left: "Sabah HPI" with small icon
+
+Center: Home, Explore, About links
+
+Right: Search input with Search icon (for quick district lookup)
+
+Background: bg-background with border-b
+
+Search implementation: Dropdown with Command component showing filtered districts
+
+
+2. Hero Section (Min-height: 60vh)
+
+
+Background: Subtle gradient bg-gradient-to-b from-background to-muted/50
+
+Center-aligned content in Container (max-width: 1200px)
+
+Title: h1 with scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl
+
+Subtitle: text-xl text-muted-foreground max-w-3xl mx-auto
+
+Sabah map illustration: SVG or stylized graphic (400px width) with 8 colored domain icons positioned around it
+
+Call-to-action: "Explore the Data" button leading to main dashboard
+
+
+3. Overall State Dashboard
+
+
+Radial Chart Specifications:
+
+
+Container: Card component, 600px diameter on desktop, responsive on mobile
+
+8 segments representing domains, scored 1-10
+
+Use domain-specific colors defined below
+
+Center text showing overall Sabah score (average of 8 domains)
+
+Hover effects: highlight segment, show tooltip with domain name and score
+
+Click behavior: selects domain and updates detail panel
+
+
+Domain Selection Interface:
+
+
+Use Tabs component below radial chart
+
+8 tabs with domain names and color-coded indicators
+
+Each tab shows domain score badge
+
+Active tab triggers detail panel update
+
+
+Domain Detail Panel:
+
+
+Card component with domain-specific header color
+
+Sub-domain grid: 2-3 columns on desktop, 1 column on mobile
+
+Each sub-domain as individual Card with:
+Title and description
+
+Appropriate chart component
+
+Raw data display
+
+Tooltip with methodology
+
+
+4. Explore Section Design
+
+
+Toggle Interface:
+
+
+RadioGroup component with two options
+
+"By District" and "By People" as large clickable cards
+
+Icons: Map for District, Users for People
+
+Description text under each option
+
+
+By District Flow - Detailed UX:
+
+
+District Selection Page:
+
+
+Search bar: Input with Search icon, debounced search (300ms)
+
+Autocomplete: Command dropdown showing filtered results
+
+District grid: Card components in responsive grid (3-4 columns desktop, 1-2 mobile)
+
+Each district card shows:
+District name
+
+Overall score badge
+
+Mini radial chart (150px)
+
+Population count
+
+"Explore" button
+
+
+District Detail Page:
+
+
+Breadcrumb navigation: Sabah > District Name
+
+District overview: Large card with key statistics
+
+Cities/Towns/Villages: Similar grid layout as districts
+
+"Compare" button appears when items selected (floating action button style)
+
+
+Location Detail Page:
+
+
+Full 8-domain breakdown
+
+Comparison panel (slide-out from right)
+
+Raw data tables toggle
+
+Export options (future feature placeholder)
+
+
+By People Flow - Detailed UX:
+
+
+Filter Interface:
+
+
+Select components for each demographic filter
+
+Filters: Age Groups, Location Type, Income Level, Education, Ethnicity
+
+"Apply Filters" button with loading state
+
+Clear all filters option
+
+Active filters shown as dismissible Badge components
+
+
+Results Display:
+
+
+Summary statistics for selected demographic
+
+8-domain radial chart for filtered population
+
+Comparison with overall Sabah averages
+
+Detailed breakdowns by sub-domain
+
+
+5. Comparison Feature - Detailed Specifications:
+
+
+Selection Mechanism:
+
+
+Checkbox on each location card
+
+Maximum 3 selections enforced
+
+Selected items counter badge
+
+"Compare Selected" floating button (bottom-right)
+
+
+Comparison View:
+
+
+Side-by-side radial charts (responsive: 3 columns desktop, 1 column mobile)
+
+Difference indicators: arrows and color coding for better/worse performance
+
+Data table below with all metrics
+
+Export comparison option
+
+
+Color Scheme & Visual Design:
+
+
+Domain-Specific Color System:
+
+
+const domainColors = {
+  personalWellbeing: "hsl(142, 76%, 36%)", // Green
+  healthServices: "hsl(221, 83%, 53%)", // Blue  
+  learningSkills: "hsl(262, 83%, 58%)", // Purple
+  economicProspects: "hsl(32, 98%, 56%)", // Orange
+  culturalVitality: "hsl(346, 87%, 43%)", // Pink/Red
+  communityResilience: "hsl(199, 89%, 48%)", // Cyan
+  environmentalHealth: "hsl(142, 71%, 45%)", // Emerald
+  governanceJustice: "hsl(224, 76%, 48%)" // Indigo
+} as const;
+
+
+Typography Scale:
+
+
+Headers: font-bold with appropriate text sizes
+
+Body text: text-sm to text-base
+
+Data labels: text-xs font-medium
+
+Scores: text-lg font-bold with color coding
+
+
+Spacing System:
+
+
+Container padding: px-4 md:px-6 lg:px-8
+
+Section spacing: py-8 md:py-12 lg:py-16
+
+Card padding: p-4 md:p-6
+
+Grid gaps: gap-4 md:gap-6
+
+
+Required shadcn/ui Components with Usage:
+
+
+Layout & Navigation:
+
+
+Container: Main content wrapper
+
+NavigationMenu: Top navigation
+
+Breadcrumb: Navigation trails
+
+Separator: Visual dividers
+
+
+Data Display:
+
+
+Card: Primary content containers
+
+Badge: Score indicators, filter tags
+
+Progress: Percentage visualizations
+
+Table: Raw data display
+
+Tabs: Domain selection
+
+
+Interactive Elements:
+
+
+Button: Actions, navigation
+
+Input: Search functionality
+
+Select: Dropdown filters
+
+Checkbox: Multi-selection
+
+RadioGroup: Binary choices
+
+Command: Search autocomplete
+
+
+Feedback & Information:
+
+
+Tooltip: Contextual help
+
+Dialog: Modal content
+
+Sheet: Mobile side panels
+
+Alert: System messages
+
+Skeleton: Loading states
+
+
+Charts & Visualizations:
+
+
+Use Recharts integration with shadcn/ui theming
+
+Custom radial chart component
+
+Progress bars for percentages
+
+Bar charts for comparisons
+
+Donut charts for categorical data
+
+
+Detailed Mock Data Structure:
+
+
+// Complete type definitions
+interface SubDomain {
+  id: string;
+  name: string;
+  value: number | string | CategoryData;
+  type: 'percentage' | 'score' | 'category' | 'binary' | 'trend';
+  weight: number;
+  description: string;
+  unit?: string;
+  benchmark?: number; // Sabah average for comparison
+  methodology?: string;
+}
+
+interface CategoryData {
+  labels: string[];
+  values: number[];
+  total: number;
+}
+
+interface TrendData {
+  periods: string[];
+  values: number[];
+}
+
+interface DomainData {
+  id: string;
+  name: string;
+  description: string;
+  score: number;
+  color: string;
+  icon: string; // lucide icon name
+  subDomains: SubDomain[];
+  calculatedAt: Date;
+}
+
+interface LocationData {
+  id: string;
+  name: string;
+  type: 'state' | 'district' | 'city' | 'town' | 'village';
+  parentId?: string;
+  population: number;
+  area?: number; // km²
+  coordinates?: [number, number];
+  domains: DomainData[];
+  demographics: {
+    ageGroups: Record<string, number>;
+    urbanRural: Record<string, number>;
+    income: Record<string, number>;
+    education: Record<string, number>;
+    ethnicity: Record<string, number>;
+  };
+}
+
+// Sample complete data structure
+const mockKotaKinabalu: LocationData = {
+  id: "kota-kinabalu",
+  name: "Kota Kinabalu",
+  type: "district",
+  population: 452058,
+  area: 351.84,
+  coordinates: [5.9804, 116.0735],
+  demographics: {
+    ageGroups: {
+      "18-25": 25,
+      "26-40": 35,
+      "41-60": 30,
+      "60+": 10
+    },
+    urbanRural: {
+      "urban": 85,
+      "rural": 15
+    },
+    income: {
+      "low": 30,
+      "medium": 50,
+      "high": 20
+    },
+    education: {
+      "none": 5,
+      "primary": 15,
+      "secondary": 60,
+      "tertiary": 20
+    },
+    ethnicity: {
+      "kadazan-dusun": 35,
+      "chinese": 25,
+      "malay": 20,
+      "bajau": 10,
+      "others": 10
+    }
+  },
+  domains: [
+    {
+      id: "personal-wellbeing",
+      name: "Personal Wellbeing",
+      description: "Individual life satisfaction, resilience, and meaning",
+      score: 7.2,
+      color: "hsl(142, 76%, 36%)",
+      icon: "Heart",
+      calculatedAt: new Date(),
+      subDomains: [
+        {
+          id: "purpose",
+          name: "Purpose in life",
+          value: 65,
+          type: "percentage",
+          weight: 0.4,
+          description: "Percentage who feel they have a clear purpose",
+          unit: "%",
+          benchmark: 58,
+          methodology: "Survey question: 'Do you feel your life has a clear purpose?'"
+        },
+        {
+          id: "health-status",
+          name: "Current health status",
+          value: {
+            labels: ["Excellent", "Good", "Fair", "Poor"],
+            values: [20, 45, 25, 10],
+            total: 100
+          },
+          type: "category",
+          weight: 0.3,
+          description: "Self-reported health status distribution",
+          benchmark: 7.1
+        },
+        {
+          id: "stress-management",
+          name: "Stress Management",
+          value: 6.8,
+          type: "score",
+          weight: 0.2,
+          description: "Ability to manage daily stress",
+          unit: "/10",
+          benchmark: 6.2
+        },
+        {
+          id: "spirituality",
+          name: "Spirituality",
+          value: 72,
+          type: "percentage",
+          weight: 0.1,
+          description: "Engagement in spiritual/religious practices",
+          unit: "%",
+          benchmark: 68
+        }
+      ]
+    }
+    // ... other 7 domains with similar structure
+  ]
+};
+
+
+All 25 Sabah Districts with Mock Data:
+
+
+const sabahDistricts = [
+  { id: "kota-kinabalu", name: "Kota Kinabalu", population: 452058, overallScore: 7.2 },
+  { id: "sandakan", name: "Sandakan", population: 396290, overallScore: 6.8 },
+  { id: "tawau", name: "Tawau", population: 397673, overallScore: 6.5 },
+  { id: "lahad-datu", name: "Lahad Datu", population: 200000, overallScore: 6.2 },
+  { id: "keningau", name: "Keningau", population: 173130, overallScore: 6.9 },
+  { id: "putatan", name: "Putatan", population: 123000, overallScore: 7.1 },
+  { id: "papar", name: "Papar", population: 124794, overallScore: 6.7 },
+  { id: "tuaran", name: "Tuaran", population: 94092, overallScore: 6.8 },
+  { id: "ranau", name: "Ranau", population: 94092, overallScore: 6.4 },
+  { id: "kota-belud", name: "Kota Belud", population: 90046, overallScore: 6.3 },
+  { id: "kudat", name: "Kudat", population: 91046, overallScore: 6.1 },
+  { id: "kota-marudu", name: "Kota Marudu", population: 74602, overallScore: 5.9 },
+  { id: "pitas", name: "Pitas", population: 44838, overallScore: 5.8 },
+  { id: "beluran", name: "Beluran", population: 66875, overallScore: 6.0 },
+  { id: "tongod", name: "Tongod", population: 37883, overallScore: 6.2 },
+  { id: "kinabatangan", name: "Kinabatangan", population: 86783, overallScore: 5.7 },
+  { id: "semporna", name: "Semporna", population: 133164, overallScore: 5.5 },
+  { id: "kunak", name: "Kunak", population: 65656, overallScore: 5.6 },
+  { id: "kalabakan", name: "Kalabakan", population: 21525, overallScore: 5.8 },
+  { id: "tenom", name: "Tenom", population: 49858, overallScore: 6.6 },
+  { id: "tambunan", name: "Tambunan", population: 34009, overallScore: 6.5 },
+  { id: "nabawan", name: "Nabawan", population: 34446, overallScore: 6.1 },
+  { id: "pensiangan", name: "Pensiangan", population: 22973, overallScore: 5.9 },
+  { id: "beaufort", name: "Beaufort", population: 61698, overallScore: 6.4 },
+  { id: "sipitang", name: "Sipitang", population: 34144, overallScore: 6.2 }
+];
+
+
+Responsive Design Specifications:
+
+
+Breakpoints:
+
+
+Mobile: < 768px
+
+Tablet: 768px - 1024px
+
+Desktop: > 1024px
+
+
+Mobile Optimizations:
+
+
+Collapsible navigation with Sheet component
+
+Single-column layouts
+
+Touch-friendly button sizes (44px minimum)
+
+Swipeable tabs for domain selection
+
+Simplified radial charts
+
+Accordion-style data display
+
+
+Loading States & Error Handling:
+
+
+Loading States:
+
+
+Skeleton components matching content layout
+
+Shimmer effects for charts
+
+Progress indicators for data fetching
+
+Disabled states for interactive elements
+
+
+Error Handling:
+
+
+Alert components for system errors
+
+Fallback UI for missing data
+
+Retry mechanisms for failed requests
+
+Graceful degradation for unsupported features
+
+
+Performance Considerations:
+
+
+Lazy loading for chart components
+
+Debounced search (300ms)
+
+Memoized calculations for domain scores
+
+Virtual scrolling for large lists
+
+Optimized re-renders with React.memo
+
+
+Testing Data Scenarios:
+
+
+High-performing districts (scores 8-10)
+
+Low-performing districts (scores 3-5)
+
+Missing data points
+
+Edge cases (0% or 100% values)
+
+Different demographic distributions
+
+
+This detailed prompt should provide everything needed for comprehensive development. Would you like me to elaborate on any specific section?
+
+
+
+Powered by Claude Exporter (https://www.claudexporter.com)
